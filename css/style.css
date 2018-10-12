@@ -365,7 +365,7 @@ header.fixed.light.scrolled{background: #222;}
 header.white{background: #fff;}
 header.border-bottom{border-bottom: 1px #e3e3e3 solid;}
 .logo{display: inline-block; height: 50px; line-height: 50px; margin-top: -20px; position: relative; top: 10px; vertical-align: bottom;}
-.logo img{display: inline-block; vertical-align: middle; max-height: 30px; width: auto; top: -2px; position: relative;}
+.logo img{display: inline-block; vertical-align: middle; max-height: 50px; width: auto; top: -2px; position: relative;}
 .logo.responsive{display: none; position: absolute; left: 15px; top: 10px;}
 .navigation-wrapper{display: inline-block; margin-right: 65px;}
 .navigation-wrapper:last-child{margin-right: 0;}

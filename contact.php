@@ -1,7 +1,7 @@
 <?php ob_start(); ?>
 
 
-<div class="fixed-background" style="background-image: url(img/background-101.jpg);">
+<div class="fixed-background" style="background-image: url(img/background-150.jpg);">
   <div class="contacts-wrapper-2">
     <div class="cell-view page-height">
       <div class="container">

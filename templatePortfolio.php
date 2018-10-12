@@ -44,19 +44,19 @@
               <nav class="text-left clearfix">
                 <ul>
                   <li class="active">
-                    <a href="index.html">Accueil</a>
+                    <a href="index.php">Accueil</a>
                     <span class="toggle-icon"></span>
                   </li>
                   <li>
-                    <a href="about1.html">A propos</a>
+                    <a href="aboutUs.php">A propos</a>
                     <span class="toggle-icon"></span>
                   </li>
                   <li>
-                    <a href="portfolio1.html">Portfolio</a>
+                    <a href="portfolio.php">Portfolio</a>
                     <span class="toggle-icon"></span>
                   </li>
                   <li>
-                    <a href="services1.html">Services</a>
+                    <a href="service.php">Services</a>
                     <span class="toggle-icon"></span>
                   </li>
                   <li class="megamenu-wrapper">
@@ -69,10 +69,10 @@
             </div>
             <div class="col-sm-6 col-md-4 col-md-offset-1 col-xs-b30 col-sm-0">
               <div class="simple-article light transparent col-xs-b30 col-sm-b50">
-                <div class="h4 small">INFORMATION</div>
+                <div class="h4 small">Développeur Web Full-Stack & Webdesigner freelance.</div>
                 <div class="empty-space col-xs-b10"></div>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-                  et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</p>
+                <p>Développeur Web Full-Stack & Webdesigner freelance.</p>
+                <p>N'hésitez pas à me contacter pour tout type de projets de création de sites internet ou d'applications web.</p>
               </div>
               <div class="simple-article light transparent col-xs-b30 col-sm-b50">
                 <div class="h4 small">CONTACT </div>
@@ -81,10 +81,10 @@
                 <p>Téléphone: <a class="mouseover-simple" href="tel:+0009872251" style="color: #fff;"><b>06 51 61 21 13</b></a></p>
               </div>
               <div class="empty-space col-xs-b15"></div>
-              <div class="follow">
-                <a href="#" class="entry"><i class="fab fa-linkedin"></i></a>
-                <a href="#" class="entry"><i class="fab fa-facebook"></i></a>
-                <a href="#" class="entry"><i class="fab fa-twitter"></i></a>
+              <div class="follow style-3">
+                <a href="https://www.linkedin.com/in/tristan-broch/" target="_blank" class="entry"><i class="fab fa-linkedin"></i></a>
+                <a href="#" target="_blank" class="entry"><i class="fab fa-facebook"></i></a>
+                <a href="https://twitter.com/BrochTristan" target="_blank" class="entry"><i class="fab fa-twitter"></i></a>
               </div>
             </div>
             <div class="col-sm-6 col-md-4 col-md-offset-1">
@@ -105,19 +105,19 @@
               </div>
               <div class="overlay-thumbnails-wrapper">
                 <div class="row nopadding">
-                  <div class="col-xs-4"><a class="overlay-thumbnail" href="#"><img src="img/thumbnail-1.jpg" alt="" /><img
-                        src="img/thumbnail-1.jpg" alt="" /></a></div>
-                  <div class="col-xs-4"><a class="overlay-thumbnail" href="#"><img src="img/thumbnail-2.jpg" alt="" /><img
-                        src="img/thumbnail-2.jpg" alt="" /></a></div>
-                  <div class="col-xs-4"><a class="overlay-thumbnail" href="#"><img src="img/thumbnail-3.jpg" alt="" /><img
-                        src="img/thumbnail-3.jpg" alt="" /></a></div>
+                  <div class="col-xs-4"><a class="overlay-thumbnail" href="#"><img src="img/projet1.jpg" alt="" /><img
+                        src="img/projet1.jpg" alt="" /></a></div>
+                  <div class="col-xs-4"><a class="overlay-thumbnail" href="#"><img src="img/projet2.jpg" alt="" /><img
+                        src="img/projet2.jpg" alt="" /></a></div>
+                  <div class="col-xs-4"><a class="overlay-thumbnail" href="#"><img src="img/projet3.jpg" alt="" /><img
+                        src="img/projet3.jpg" alt="" /></a></div>
                   <div class="clear"></div>
-                  <div class="col-xs-4"><a class="overlay-thumbnail" href="#"><img src="img/thumbnail-4.jpg" alt="" /><img
-                        src="img/thumbnail-4.jpg" alt="" /></a></div>
-                  <div class="col-xs-4"><a class="overlay-thumbnail" href="#"><img src="img/thumbnail-5.jpg" alt="" /><img
-                        src="img/thumbnail-5.jpg" alt="" /></a></div>
-                  <div class="col-xs-4"><a class="overlay-thumbnail" href="#"><img src="img/thumbnail-6.jpg" alt="" /><img
-                        src="img/thumbnail-6.jpg" alt="" /></a></div>
+                  <div class="col-xs-4"><a class="overlay-thumbnail" href="#"><img src="img/projet4.jpg" alt="" /><img
+                        src="img/projet4.jpg" alt="" /></a></div>
+                  <div class="col-xs-4"><a class="overlay-thumbnail" href="#"><img src="img/projet5.jpg" alt="" /><img
+                        src="img/projet5.jpg" alt="" /></a></div>
+                  <div class="col-xs-4"><a class="overlay-thumbnail" href="#"><img src="img/loubiere.png" alt="" /><img
+                        src="img/loubiere.png" alt="" /></a></div>
                 </div>
               </div>
             </div>
@@ -134,7 +134,7 @@
       <div class="wide-container-fluid">
         <div class="row">
           <div class="col-xs-6 col-sm-2">
-            <a class="logo"><img src="img/logoTristan.png" alt="" /></a>
+            <a class="logo"><img src="img/logoDark.png" alt="" /></a>
           </div>
           <div class="col-xs-6 col-sm-10 text-right">
 
