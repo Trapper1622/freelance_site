@@ -47,11 +47,11 @@
               <nav class="text-left clearfix">
                 <ul>
                   <li class="active">
-                    <a href="index.html">Home</a>
+                    <a href="index.html">Accueil</a>
                     <span class="toggle-icon"></span>
                   </li>
                   <li>
-                    <a href="about1.html">About</a>
+                    <a href="about1.html">A propos</a>
                     <span class="toggle-icon"></span>
                   </li>
                   <li>
@@ -62,11 +62,6 @@
                     <a href="services1.html">Services</a>
                     <span class="toggle-icon"></span>
                   </li>
-                  <li>
-                    <a href="blog1.html">Blog</a>
-                    <span class="toggle-icon"></span>
-                  </li>
-
                   <li class="megamenu-wrapper">
                     <a href="contact.php">Contact</a>
                     <span class="toggle-icon"></span>
@@ -88,14 +83,11 @@
                 <p>Email: <a class="mouseover-simple" href="mailto:modesto@email.com" style="color: #fff;"><b>tristan.broch@gmail.com</b></a></p>
                 <p>Téléphone: <a class="mouseover-simple" href="tel:+0009872251" style="color: #fff;"><b>06 51 61 21 13</b></a></p>
               </div>
-              <div class="h4 small light">FOLLOW ME</div>
               <div class="empty-space col-xs-b15"></div>
               <div class="follow">
-                <a href="#" class="entry"><i class="fab fa-instagram"></i></a>
+                <a href="#" class="entry"><i class="fab fa-linkedin"></i></a>
                 <a href="#" class="entry"><i class="fab fa-facebook"></i></a>
-                <a href="#" class="entry"><i class="fab fa-pinterest-p"></i></a>
                 <a href="#" class="entry"><i class="fab fa-twitter"></i></a>
-                <a href="#" class="entry"><i class="fab fa-google-plus"></i></a>
               </div>
             </div>
             <div class="col-sm-6 col-md-4 col-md-offset-1">
@@ -145,7 +137,7 @@
       <div class="wide-container-fluid">
         <div class="row">
           <div class="col-xs-6 col-sm-2">
-            <a class="logo"><img src="img/logo1.png" alt="" /></a>
+            <a class="logo"><img src="img/logoTristan.png" alt="" /></a>
           </div>
           <div class="col-xs-6 col-sm-10 text-right">
 
@@ -157,11 +149,11 @@
                 <nav class="text-left clearfix">
                   <ul>
                     <li class="active">
-                      <a href="index.php">Home</a>
+                      <a href="index.php">Accueil</a>
                       <span class="toggle-icon"></span>
                     </li>
                     <li>
-                      <a href="aboutUs.php">About</a>
+                      <a href="aboutUs.php">A propos</a>
                       <span class="toggle-icon"></span>
                     </li>
                     <li>
@@ -173,12 +165,6 @@
                       <a href="service.php">Services</a>
                       <span class="toggle-icon"></span>
                     </li>
-
-                    <li>
-                      <a href="blog1.html">Blog</a>
-                      <span class="toggle-icon"></span>
-                    </li>
-
                     <li class="megamenu-wrapper">
                       <a href="contact.php">Contact</a>
                       <span class="toggle-icon"></span>
@@ -188,12 +174,10 @@
               </div>
 
               <div class="follow style-1">
-                <span class="title">Follow me:</span>
-                <a class="entry" href="#"><i class="fab fa-instagram"></i></a>
+                <a class="entry" href="#"><i class="fab fa-linkedin"></i></a>
                 <a class="entry" href="#"><i class="fab fa-facebook"></i></a>
-                <a class="entry" href="#"><i class="fab fa-pinterest-p"></i></a>
                 <a class="entry" href="#"><i class="fab fa-twitter"></i></a>
-                <a class="entry" href="#"><i class="fab fa-google-plus"></i></a>
+
               </div>
 
             </div>
@@ -235,7 +219,6 @@
           </div>
           <div class="col-md-6 col-xs-text-center col-md-text-right">
             <div class="follow style-3">
-              <span class="title">Follow me:</span>
               <a class="entry" href="https://www.linkedin.com/" target="_blank"><i class="fab fa-linkedin"></i></a>
               <a class="entry" href="https://www.facebook.com/" target="_blank"><i class="fab fa-facebook"></i></a>
               <a class="entry" href="https://twitter.com/" target="_blank"><i class="fab fa-twitter"></i></a>
