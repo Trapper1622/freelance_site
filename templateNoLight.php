@@ -28,7 +28,7 @@
     <![endif]-->
 
   <link rel="shortcut icon" href="img/favicon.ico" />
-  <title>Modesto</title>
+  <title>Tristan Broch</title>
 </head>
 
 <body class="fonts-5">

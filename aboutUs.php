@@ -16,10 +16,10 @@
                             <div class="swiper-slide" style="background-image: url(img/background-106.jpg);">
                                 <div class="full-size valign-middle">
                                     <div class="valign-text-wrapper text-center">
-                                        <div class="slide-title h2"><b>ABOUT US</b></div>
+                                        <div class="slide-title h2"><b>A propos</b></div>
                                         <div class="empty-space col-xs-b15"></div>
                                         <div class="banner-max-width">
-                                            <div class="slide-description simple-article large grey">Lorem ipsum dolor sit amet, consectetur adipiscing elitrutrum</div>
+                                            <div class="slide-description simple-article large grey">Je suis développeur web freelance et j'aime ça !</div>
                                         </div>
                                     </div>
                                 </div>
@@ -61,7 +61,7 @@
                         </div>
                     </div>
                     <div class="empty-space col-xs-b35"></div>
-                    <a href="#" class="button type-3">CONTact us</a>
+                    <a href="contact.php" class="button type-3">CONTactez moi</a>
                 </div>
             </div>
 
@@ -114,88 +114,6 @@
 
         <div class="empty-space col-xs-b55 col-sm-b110"></div>
 
-        <div class="swiper-container" data-slides-per-view="4" data-breakpoints="1" data-xs-slides="1" data-sm-slides="2" data-md-slides="3">
-            <div class="swiper-button-prev swiper-button hidden"></div>
-            <div class="swiper-button-next swiper-button hidden"></div>
-            <div class="swiper-wrapper">
-                <div class="swiper-slide">
-                    <div class="team-entry-wide">
-                        <img class="team-entry-wide-thumbnail" src="img/thumbnail-77.jpg" alt="" />
-                        <div class="description">
-                            <div class="h5 light"><b>NICK CARTER</b></div>
-                            <div class="empty-space col-xs-b15"></div>
-                            <div class="simple-article light transparent">project maneger</div>
-                            <div class="empty-space col-xs-b15"></div>
-                            <div class="follow style-3">
-                                <a class="entry" href="#"><i class="fa fa-instagram"></i></a>
-                                <a class="entry" href="#"><i class="fa fa-facebook"></i></a>
-                                <a class="entry" href="#"><i class="fa fa-pinterest-p"></i></a>
-                                <a class="entry" href="#"><i class="fa fa-twitter"></i></a>
-                                <a class="entry" href="#"><i class="fa fa-google-plus"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="swiper-slide">
-                    <div class="team-entry-wide">
-                        <img class="team-entry-wide-thumbnail" src="img/thumbnail-78.jpg" alt="" />
-                        <div class="description">
-                            <div class="h5 light"><b>NICK CARTER</b></div>
-                            <div class="empty-space col-xs-b15"></div>
-                            <div class="simple-article light transparent">project maneger</div>
-                            <div class="empty-space col-xs-b15"></div>
-                            <div class="follow style-3">
-                                <a class="entry" href="#"><i class="fa fa-instagram"></i></a>
-                                <a class="entry" href="#"><i class="fa fa-facebook"></i></a>
-                                <a class="entry" href="#"><i class="fa fa-pinterest-p"></i></a>
-                                <a class="entry" href="#"><i class="fa fa-twitter"></i></a>
-                                <a class="entry" href="#"><i class="fa fa-google-plus"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="swiper-slide">
-                    <div class="team-entry-wide">
-                        <img class="team-entry-wide-thumbnail" src="img/thumbnail-79.jpg" alt="" />
-                        <div class="description">
-                            <div class="h5 light"><b>NICK CARTER</b></div>
-                            <div class="empty-space col-xs-b15"></div>
-                            <div class="simple-article light transparent">project maneger</div>
-                            <div class="empty-space col-xs-b15"></div>
-                            <div class="follow style-3">
-                                <a class="entry" href="#"><i class="fa fa-instagram"></i></a>
-                                <a class="entry" href="#"><i class="fa fa-facebook"></i></a>
-                                <a class="entry" href="#"><i class="fa fa-pinterest-p"></i></a>
-                                <a class="entry" href="#"><i class="fa fa-twitter"></i></a>
-                                <a class="entry" href="#"><i class="fa fa-google-plus"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="swiper-slide">
-                    <div class="team-entry-wide">
-                        <img class="team-entry-wide-thumbnail" src="img/thumbnail-80.jpg" alt="" />
-                        <div class="description">
-                            <div class="h5 light"><b>NICK CARTER</b></div>
-                            <div class="empty-space col-xs-b15"></div>
-                            <div class="simple-article light transparent">project maneger</div>
-                            <div class="empty-space col-xs-b15"></div>
-                            <div class="follow style-3">
-                                <a class="entry" href="#"><i class="fa fa-instagram"></i></a>
-                                <a class="entry" href="#"><i class="fa fa-facebook"></i></a>
-                                <a class="entry" href="#"><i class="fa fa-pinterest-p"></i></a>
-                                <a class="entry" href="#"><i class="fa fa-twitter"></i></a>
-                                <a class="entry" href="#"><i class="fa fa-google-plus"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="swiper-pagination relative-pagination"></div>
-        </div>
-
-        <div class="empty-space col-xs-b55 col-sm-b110"></div>
-
         <div class="container">
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 text-center">
@@ -238,52 +156,6 @@
 
         <div class="empty-space col-xs-b55 col-sm-b110"></div>
 
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-2 col-xs-b30 col-sm-b0">
-                    <div class="h5"><b>READY PROJECTS</b></div>
-                    <div class="empty-space col-xs-b15"></div>
-                    <div class="h2"><b>658</b></div>
-                </div>
-                <div class="col-sm-4 col-xs-b30 col-sm-b0">
-                    <div class="h5"><b>WORK WITH US</b></div>
-                    <div class="empty-space col-xs-b15"></div>
-                    <div class="simple-article grey">
-                        <p>Phasellus mattis magna vel augue gravida eleifend. Donec sit amet diam mollis, sodales lorem vel, blandit orci. Proin nec mauris lectus. Mauris sit amet ex et nibh dapibus gravida. Sed luctus ipsum purus, vitae dictum urna bibendum vel. Proin ornare nisl sodales tortor hasellus finibus viverra</p>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-xs-b30 col-sm-b0">
-                    <div class="h5"><b>WE BEST IN</b></div>
-                    <div class="empty-space col-xs-b15"></div>
-                    <div class="row">
-                        <div class="col-sm-6">
-                            <div class="simple-article grey">
-                                <ul>
-                                    <li>Responsive design</li>
-                                    <li>Landingpages</li>
-                                    <li>Product websites</li>
-                                    <li>Corporate blogs</li>
-                                    <li>Company documents</li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="col-sm-6">
-                            <div class="simple-article grey">
-                                <ul>
-                                    <li>Adverts</li>
-                                    <li>Packaging design</li>
-                                    <li>Stands &amp; Rollups</li>
-                                    <li>Annual reports</li>
-                                    <li>Brandbooks</li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="empty-space col-xs-b55 col-sm-b110"></div>
 
 <?php $contents = ob_get_clean(); ?>
 <?php require('templateNoLight.php'); ?>
