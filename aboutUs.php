@@ -42,7 +42,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 text-center">
-                    <div class="h4"><b>LOREM IPSUM DOLOR SEMPER AMET, CONSECTETUR ELIT. INTEGER SEMPER ELIT NEC JUSTO AUCTOR</b></div>
+                    <div class="h4"><b>Je me présente !</b></div>
                     <div class="col-xs-b15"></div>
                     <div class="simple-article grey large">
                         <p>Développeur front-end Freelance sur Montpellier, je suis passionné par les nouvelles technologies et encore plus par la conception web. 
