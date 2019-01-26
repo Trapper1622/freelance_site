@@ -63,9 +63,9 @@
                     </div>
                     <div class="empty-space col-xs-b35"></div>
                     <div class="row">
-                        <div class="col-sm-6 text-left">
+                        <div class="col-sm-3 text-left">
                             <div class="simple-article grey">
-                                <p>Design :
+                                <p><span>Design :</span>
                                     <br>
                                 - Adobe Photoshop
                                 <br>
@@ -73,20 +73,37 @@
                                 </p>
                             </div>
                         </div>
-                        <div class="col-sm-6 text-left">
+                        <div class="col-sm-3 text-left">
                             <div class="simple-article grey">
-                                <p>Développement web :
+                                <p><span>Développement web :</span>
                                     <br>
                                 - Intégration HTML5 / CSS3 ( responsive )<br>
-                                - Bootstrap 4<br>
-                                - SASS<br>
                                 - Javascript<br>
-                                - Reactjs<br>
-                                - Git<br>
-                                - Wordpress ( Création de site web, Installation et Configuration de thème, Création de thème, Installation et Configuration de plugins, création de plugin etc )<br>
                                 - PHP<br>
                                 - MySQL
                                 </p>
+                            </div>
+                        </div>
+                        <div class="col-sm-3 text-left">
+                            <div class="simple-article grey">
+                                <p><span>CMS :</span>
+                                    <br>
+                                - Wordpress <!--( Création de site web, Installation et Configuration de thème, Création de thème, Installation et Configuration de plugins, création de plugin etc )--><br>
+                                - Prestashop<br>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="col-sm-3 text-left">
+                            <div class="simple-article grey">
+                                <p><span>frameworks / autres</span>
+                                    <br>
+                                <br>
+                                - Reactjs<br>
+                                - Bootstrap 4<br>
+                                - Git<br>
+                                - SASS<br>
+                                </p>
+                                
                             </div>
                         </div>
                     </div>
@@ -96,39 +113,6 @@
             </div>
         </div>
             <div class="empty-space col-xs-b55 col-sm-b110"></div>
-
-        <div class="container">
-            <div class="row">
-                <div class="col-md-8 col-md-offset-2 text-center">
-                    <div class="h3"><b>OUR BENEFITS</b></div>
-                    <div class="col-xs-b15"></div>
-                    <div class="simple-article grey large">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras elementum id metus ac tempus. Praesent ut mauris eget velit volutpat posuere </p>
-                    </div>
-                    <div class="empty-space col-xs-b35"></div>
-                    <div class="row">
-                        <div class="col-sm-6 text-left col-xs-b30 col-sm-b0">
-                            <div class="h5"><b>WHY CHOOSE US</b></div>
-                            <div class="empty-space col-xs-b15"></div>
-                            <div class="simple-article grey">
-                                <p>Phasellus mattis magna vel augue gravida eleifend. Donec sit amet diam mollis, sodales lorem vel, blandit orci. Proin nec mauris lectus. Mauris sit amet ex et nibh dapibus gravida. Sed luctus ipsum purus, vitae dictum urna bibendum vel. Proin ornare nisl sodales tortor</p>
-                            </div>
-                        </div>
-                        <div class="col-sm-6 text-left">
-                            <div class="h5"><b>HOW WE WORK</b></div>
-                            <div class="empty-space col-xs-b15"></div>
-                            <div class="simple-article grey">
-                                <p>Cras elementum id metus ac tempus. Praesent ut mauris eget velit volutpat posuere nec ut elit. Etiam efficitur iaculis nulla a commodo. Sed eget mi sed tortor semper volutpat. In vehicula tri tique rutrum. Etiam sit amet justo et enim ullamcorper nisi id, convallis purus</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="empty-space col-xs-b35"></div>
-                    <a href="#" class="button type-3">CONTact us</a>
-                </div>
-            </div>
-        </div>
-
-        <div class="empty-space col-xs-b55 col-sm-b110"></div>
 
         <div class="row nopadding">
             <div class="col-xs-6 col-sm-3 nopadding"><img class="image-wide-thumbnail" src="img/thumbnail-81.jpg" alt="" /></div>

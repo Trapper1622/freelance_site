@@ -226,6 +226,7 @@ body.mobile .mouseover .mouseover-helper-frame, body.mobile .mouseover .mouseove
 .simple-article.light.transparent{color: rgba(255,255,255,.7);}
 .simple-article.grey.transparent{color: rgba(152,152,152,.7);}
 .simple-article img{max-width: 100%; height: auto; display: block;}
+.simple-article span{font-weight: 600;}
 .simple-article ol{counter-reset: number;}
 .simple-article ol li{padding-left: 0; margin-bottom: 8px;}
 .simple-article ol li:before{counter-increment: number; content: "#" counter(number); color: #10ace0; margin-right: 5px;}
@@ -610,7 +611,7 @@ footer{padding: 42.5px 0; background: #222; line-height: 30px; position: relativ
 .copyright .simple-article{font-family: inherit!important; font-weight: 400!important;}
 .copyright .simple-article.light.transparent{color: rgba(255,255,255,.5);}
 .copyright .fa{color: #fe2b2b;}
-.copyright a{color: #fff; text-decoration: none!important;}
+.copyright a{color: #000; text-decoration: none!important;}
 footer.light .copyright a{color: #222;}
 .copyright a:hover{color: #fe2b2b!important;}
 .developed-by{display: inline-block; white-space: nowrap;}
@@ -628,7 +629,7 @@ footer.light .copyright a{color: #222;}
 .follow.style-1 .title{color: #222;}
 .follow.style-2 .entry{color: #9b9ca0; background: none; border-color: #9b9ca0;}
 .follow.style-2 .entry:before{background: #222;}
-.follow.style-3 .entry{color: rgba(255,255,255,.5); background: none; border-color: rgba(255,255,255,.5);}
+.follow.style-3 .entry{color: rgba(0,0,0,.5); background: none; border-color: rgba(0,0,0,.5);}
 .follow.style-3 .entry:hover{color: #222;}
 .follow.style-3 .entry:before{background: #fff;}
 .follow.style-4 .title{color: #989898;}
@@ -651,6 +652,8 @@ footer.type-2{margin-top: -115px; top: 1px;}
 @media (max-width: 991px) {
 	footer.transparent{margin-top: 0; background: #222; top: 0;}
 	footer.transparent .copyright a{color: #fff;}
+	footer.transparent .copyright .simple-article {color: #fff;}
+	.follow.style-3 .entry{color: rgba(255,255,255,.5); background: none; border-color: rgba(255,255,255,.5);}
 }
 /*Phones (<768px)*/
 @media (max-width: 767px) {
@@ -1372,20 +1375,20 @@ video{position: absolute; right: 0; top: 0; min-width: 100%; min-height: 100%; w
 /*-------------------------------------------------------------------------------------------------------------------------------*/
 /* 26 - ABOUT 1 */
 /*-------------------------------------------------------------------------------------------------------------------------------*/
-/* .fonts-8{font-family: 'Inconsolata';}
+.fonts-8{font-family: 'Inconsolata';}
 .fonts-8 .simple-article{font-family: 'Inconsolata';}
 .fonts-8 .simple-article h1, .fonts-8 .h1, .fonts-8 .simple-article h2, .fonts-8 .h2, .fonts-8 .simple-article h3, .fonts-8 .h3, .fonts-8 .simple-article h4, .fonts-8 .h4, .fonts-8 .simple-article h5, .fonts-8 .h5, .fonts-8 .simple-article h6, .fonts-8 .h6{font-family: 'Montserrat', sans-serif;}
 .fonts-8 .homepage-4-slider-navigation{font-weight: 700;}
 .fonts-8 nav{font-family: 'Montserrat', sans-serif;}
 .fonts-8 .awards-slider .award-date{font-family: 'Montserrat', sans-serif;}
 .fonts-8 .sorting-menu.style-1, .fonts-8 .sorting-menu.style-2{font-family: 'Montserrat', sans-serif;}
-.fonts-8 .footer-nav{font-family: 'Montserrat', sans-serif;} */
+.fonts-8 .footer-nav{font-family: 'Montserrat', sans-serif;}
 
 
 /*-------------------------------------------------------------------------------------------------------------------------------*/
 /* 27 - ABOUT 2 */
 /*-------------------------------------------------------------------------------------------------------------------------------*/
-/* .full-size-banner-entry{background-size: cover; background-position: center center;}
+.full-size-banner-entry{background-size: cover; background-position: center center;}
 .full-size-banner-entry:before{content: ""; position: absolute; left: 0; top: 0; width: 100%; height: 100%; background: rgba(0,0,0,.45);}
 .full-size-banner-entry.style-1:before{display: none;}
 .full-size-banner-entry.style-2:before{background: rgba(0,0,0,.2);}
@@ -1409,7 +1412,7 @@ video{position: absolute; right: 0; top: 0; min-width: 100%; min-height: 100%; w
 /* @media (max-width: 767px) {
 	.thumbnail-line-entry{width: 20%;}
 	.client-entry-wrapper{margin-bottom: 15px;}
-} */
+}
 
 
 /*-------------------------------------------------------------------------------------------------------------------------------*/

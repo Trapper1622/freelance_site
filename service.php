@@ -16,10 +16,10 @@
                             <div class="swiper-slide" style="background-image: url(img/background-80.jpg);">
                                 <div class="full-size valign-middle">
                                     <div class="valign-text-wrapper text-center">
-                                        <div class="slide-title h2"><b>OUR SERVICES</b></div>
+                                        <div class="slide-title h2"><b>Mes Services</b></div>
                                         <div class="empty-space col-xs-b15"></div>
                                         <div class="banner-max-width">
-                                            <div class="slide-description simple-article large grey">Lorem ipsum dolor sit amet, consectetur adipiscing elitrutrum olor sit amet, consectetur adipiscing elitrutrum</div>
+                                            <div class="slide-description simple-article large grey">Des services adaptées à vos besoins</div>
                                         </div>
                                     </div>
                                 </div>
@@ -75,11 +75,29 @@
                             <div class="h5 light"><b>DESIGN</b></div>
                             <div class="empty-space col-xs-b10"></div>
                             <div class="simple-article large light transparent">
-                                Logo design<br/>
-                                Corporate identity<br/>
-                                Styleguide<br/>
-                                Corporative typography<br/>
-                                Poligraphy<br/>
+                                Logos <br/>
+                                Templates web<br/>
+                                Cartes de visite<br/>
+                                Flyers<br/>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="services-square-entry">
+                <div class="content">
+                    <div class="layer-1 full-size valign-middle">
+                        <div class="valign-text-wrapper">
+                            <img class="col-xs-b15" src="img/services-icon-13.png" alt="" /><br/>
+                            <div class="h5"><b>SEO</b></div>
+                        </div>
+                    </div>
+                    <div class="layer-2 full-size valign-middle">
+                        <div class="valign-text-wrapper">
+                            <div class="h5 light"><b>SEO</b></div>
+                            <div class="empty-space col-xs-b10"></div>
+                            <div class="simple-article large light transparent">
+                                Référencement naturel<br/>
                             </div>
                         </div>
                     </div>
@@ -90,19 +108,18 @@
                     <div class="layer-1 full-size valign-middle">
                         <div class="valign-text-wrapper">
                             <img class="col-xs-b15" src="img/services-icon-6.png" alt="" /><br/>
-                            <div class="h5"><b>DEVELOPMENT</b></div>
+                            <div class="h5"><b>PROJETS WEB</b></div>
                         </div>
                     </div>
                     <div class="layer-2 full-size valign-middle">
                         <div class="valign-text-wrapper">
-                            <div class="h5 light"><b>DEVELOPMENT</b></div>
+                            <div class="h5 light"><b>PROJETS WEB</b></div>
                             <div class="empty-space col-xs-b10"></div>
                             <div class="simple-article large light transparent">
-                                Logo design<br/>
-                                Corporate identity<br/>
-                                Styleguide<br/>
-                                Corporative typography<br/>
-                                Poligraphy<br/>
+                                Site vitrine<br/>
+                                E-commerce<br/>
+                                évènementiel<br/>
+                                Blog<br/>
                             </div>
                         </div>
                     </div>
@@ -135,52 +152,6 @@
                 <div class="content">
                     <div class="layer-1 full-size valign-middle">
                         <div class="valign-text-wrapper">
-                            <img class="col-xs-b15" src="img/services-icon-8.png" alt="" /><br/>
-                            <div class="h5"><b>BRANDING</b></div>
-                        </div>
-                    </div>
-                    <div class="layer-2 full-size valign-middle">
-                        <div class="valign-text-wrapper">
-                            <div class="h5 light"><b>BRANDING</b></div>
-                            <div class="empty-space col-xs-b10"></div>
-                            <div class="simple-article large light transparent">
-                                Logo design<br/>
-                                Corporate identity<br/>
-                                Styleguide<br/>
-                                Corporative typography<br/>
-                                Poligraphy<br/>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="services-square-entry">
-                <div class="content">
-                    <div class="layer-1 full-size valign-middle">
-                        <div class="valign-text-wrapper">
-                            <img class="col-xs-b15" src="img/services-icon-9.png" alt="" /><br/>
-                            <div class="h5"><b>MOTION</b></div>
-                        </div>
-                    </div>
-                    <div class="layer-2 full-size valign-middle">
-                        <div class="valign-text-wrapper">
-                            <div class="h5 light"><b>MOTION</b></div>
-                            <div class="empty-space col-xs-b10"></div>
-                            <div class="simple-article large light transparent">
-                                Logo design<br/>
-                                Corporate identity<br/>
-                                Styleguide<br/>
-                                Corporative typography<br/>
-                                Poligraphy<br/>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="services-square-entry">
-                <div class="content">
-                    <div class="layer-1 full-size valign-middle">
-                        <div class="valign-text-wrapper">
                             <img class="col-xs-b15" src="img/services-icon-10.png" alt="" /><br/>
                             <div class="h5"><b>PHOTOGRAPHY</b></div>
                         </div>
@@ -188,98 +159,6 @@
                     <div class="layer-2 full-size valign-middle">
                         <div class="valign-text-wrapper">
                             <div class="h5 light"><b>PHOTOGRAPHY</b></div>
-                            <div class="empty-space col-xs-b10"></div>
-                            <div class="simple-article large light transparent">
-                                Logo design<br/>
-                                Corporate identity<br/>
-                                Styleguide<br/>
-                                Corporative typography<br/>
-                                Poligraphy<br/>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="services-square-entry">
-                <div class="content">
-                    <div class="layer-1 full-size valign-middle">
-                        <div class="valign-text-wrapper">
-                            <img class="col-xs-b15" src="img/services-icon-11.png" alt="" /><br/>
-                            <div class="h5"><b>E-MAIL NEWLETTER</b></div>
-                        </div>
-                    </div>
-                    <div class="layer-2 full-size valign-middle">
-                        <div class="valign-text-wrapper">
-                            <div class="h5 light"><b>E-MAIL NEWLETTER</b></div>
-                            <div class="empty-space col-xs-b10"></div>
-                            <div class="simple-article large light transparent">
-                                Logo design<br/>
-                                Corporate identity<br/>
-                                Styleguide<br/>
-                                Corporative typography<br/>
-                                Poligraphy<br/>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="services-square-entry">
-                <div class="content">
-                    <div class="layer-1 full-size valign-middle">
-                        <div class="valign-text-wrapper">
-                            <img class="col-xs-b15" src="img/services-icon-12.png" alt="" /><br/>
-                            <div class="h5"><b>ECOMMERCE</b></div>
-                        </div>
-                    </div>
-                    <div class="layer-2 full-size valign-middle">
-                        <div class="valign-text-wrapper">
-                            <div class="h5 light"><b>ECOMMERCE</b></div>
-                            <div class="empty-space col-xs-b10"></div>
-                            <div class="simple-article large light transparent">
-                                Logo design<br/>
-                                Corporate identity<br/>
-                                Styleguide<br/>
-                                Corporative typography<br/>
-                                Poligraphy<br/>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="services-square-entry">
-                <div class="content">
-                    <div class="layer-1 full-size valign-middle">
-                        <div class="valign-text-wrapper">
-                            <img class="col-xs-b15" src="img/services-icon-13.png" alt="" /><br/>
-                            <div class="h5"><b>SEO</b></div>
-                        </div>
-                    </div>
-                    <div class="layer-2 full-size valign-middle">
-                        <div class="valign-text-wrapper">
-                            <div class="h5 light"><b>SEO</b></div>
-                            <div class="empty-space col-xs-b10"></div>
-                            <div class="simple-article large light transparent">
-                                Logo design<br/>
-                                Corporate identity<br/>
-                                Styleguide<br/>
-                                Corporative typography<br/>
-                                Poligraphy<br/>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="services-square-entry">
-                <div class="content">
-                    <div class="layer-1 full-size valign-middle">
-                        <div class="valign-text-wrapper">
-                            <img class="col-xs-b15" src="img/services-icon-14.png" alt="" /><br/>
-                            <div class="h5"><b>PPC</b></div>
-                        </div>
-                    </div>
-                    <div class="layer-2 full-size valign-middle">
-                        <div class="valign-text-wrapper">
-                            <div class="h5 light"><b>PPC</b></div>
                             <div class="empty-space col-xs-b10"></div>
                             <div class="simple-article large light transparent">
                                 Logo design<br/>
