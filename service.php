@@ -47,11 +47,11 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-6 col-md-offset-3 text-center">
-                            <div class="slide-title h2 light"><b>WHY CHOOSE US</b></div>
+                            <div class="slide-title h2 light"><b>Pourquoi me choisir</b></div>
                             <div class="empty-space col-xs-b15"></div>
                             <div class="slide-description simple-article large light transparent">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras elementum id metus ac tempus. Praesent ut mauris eget velit volutpat posuere nec elit. Etiam efficitur iaculis nulla a commodo. Sed eget mi sed tortor semper volutpat</div>
                             <div class="empty-space col-xs-b35"></div>
-                            <a class="button light type-3" href="#">CONTact us</a>
+                            <a class="button light type-3" href="#">CONTact moi</a>
                         </div>
                     </div>
                 </div>
@@ -178,15 +178,15 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 col-md-offset-3 text-center">
-                    <div class="h2 small"><b>READY WORK WITH US?</b></div>
+                    <div class="h2 small"><b>Prêt à travailler avec moi ?</b></div>
                     <div class="empty-space col-xs-b15"></div>
                     <div class="simple-article grey">
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus hgsed eLorem ipsum dolor sit amet, consectetur adipiscing elitelit
                     </div>
                     <div class="empty-space col-xs-b35"></div>
                     <div class="buttons-align-wrapper">
-                        <a href="#" class="button type-3">CONTact us</a>    
-                        <a href="#" class="button type-3">view all works</a>        
+                        <a href="#" class="button type-3">CONTactez moi</a>    
+                        <a href="#" class="button type-3">Voir mon travail</a>        
                     </div>
                 </div>
             </div>
