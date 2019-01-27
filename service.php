@@ -153,7 +153,7 @@
                     <div class="layer-1 full-size valign-middle">
                         <div class="valign-text-wrapper">
                             <img class="col-xs-b15" src="img/services-icon-10.png" alt="" /><br/>
-                            <div class="h5"><b>PHOTOGRAPHY</b></div>
+                            <div class="h5"><b>PHOTOGRAPHIE</b></div>
                         </div>
                     </div>
                     <div class="layer-2 full-size valign-middle">
