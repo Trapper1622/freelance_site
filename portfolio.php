@@ -13,14 +13,14 @@
                 <div class="empty-space col-xs-b30 col-md-b0"></div>
                 <div class="col-md-6 col-xs-text-center col-md-text-right">
                     <div class="sorting-menu style-2 text-left">
-                        <div class="responsive-filtration-title"><span class="text">All</span></div>
+                        <div class="responsive-filtration-title"><span class="text">Tout</span></div>
                         <ul class="responsive-filtration-toggle">
-                            <li><a class="mouseover-simple active" data-filter="*">All</a></li>
-                            <li><a class="mouseover-simple" data-filter=".filter-2">Design</a></li>
-                            <li><a class="mouseover-simple" data-filter=".filter-3">Branding</a></li>
-                            <li><a class="mouseover-simple" data-filter=".filter-4">Advertising</a></li>
-                            <li><a class="mouseover-simple" data-filter=".filter-5">Logo</a></li>
-                            <li><a class="mouseover-simple" data-filter=".filter-6">Development</a></li>
+                            <li><a class="mouseover-simple active" data-filter="*">Tout</a></li>
+                            <li><a class="mouseover-simple" data-filter=".filter-2">Wordpress</a></li>
+                            <li><a class="mouseover-simple" data-filter=".filter-3">From-scratch</a></li>
+                            <li><a class="mouseover-simple" data-filter=".filter-4">Projets formation</a></li>
+                            <li><a class="mouseover-simple" data-filter=".filter-5">Logos</a></li>
+                            <li><a class="mouseover-simple" data-filter=".filter-6">cartes de visite / flyers</a></li>
                         </ul>
                     </div>
                 </div>
@@ -34,7 +34,7 @@
 
                 <div class="sorting-item filter-1">
                     <div class="portfolio-landing-entry-1 style-1">
-                        <a class="mouseover poster-3d lightbox" data-offset="5" href="projets/projet-1.php" style="background-image: url(img/portfolio-27.jpg);">
+                        <a class="mouseover poster-3d lightbox" data-offset="5" href="projet-1.php" style="background-image: url(img/portfolio-27.jpg);">
                             <span class="layer-1 full-size" data-offset="10">
                                 <span class="mouseover-helper-frame"></span>
                             </span>
@@ -45,10 +45,10 @@
                         <div class="text-content">
                             <div class="row">
                                 <div class="col-md-6 col-xs-text-center col-md-text-left">
-                                    <div class="h5"><b><a href="#" class="mouseover-simple size-1">01. FIORITURA</a></b></div>
+                                    <div class="h5"><b><a href="#" class="mouseover-simple size-1">01. Septimanie club canin</a></b></div>
                                 </div>
                                 <div class="col-md-6 col-xs-text-center col-md-text-right">
-                                    <div class="simple-article grey small">branding / photoshooting</div>
+                                    <div class="simple-article grey small">Site wordpress</div>
                                 </div>
                             </div>
                         </div>
@@ -68,10 +68,10 @@
                         <div class="text-content">
                             <div class="row">
                                 <div class="col-md-6 col-xs-text-center col-md-text-left">
-                                    <div class="h5"><b><a href="#" class="mouseover-simple size-1">02. VISION</a></b></div>
+                                    <div class="h5"><b><a href="#" class="mouseover-simple size-1">02. Arthautek</a></b></div>
                                 </div>
                                 <div class="col-md-6 col-xs-text-center col-md-text-right">
-                                    <div class="simple-article grey small">branding / photoshooting</div>
+                                    <div class="simple-article grey small">Site wordpress</div>
                                 </div>
                             </div>
                         </div>
@@ -91,10 +91,10 @@
                         <div class="text-content">
                             <div class="row">
                                 <div class="col-md-6 col-xs-text-center col-md-text-left">
-                                    <div class="h5"><b><a href="#" class="mouseover-simple size-1">03. BUDDHA</a></b></div>
+                                    <div class="h5"><b><a href="#" class="mouseover-simple size-1">03. Edu-k-nin</a></b></div>
                                 </div>
                                 <div class="col-md-6 col-xs-text-center col-md-text-right">
-                                    <div class="simple-article grey small">branding / photoshooting</div>
+                                    <div class="simple-article grey small">Site wordpress</div>
                                 </div>
                             </div>
                         </div>
@@ -114,10 +114,10 @@
                         <div class="text-content">
                             <div class="row">
                                 <div class="col-md-6 col-xs-text-center col-md-text-left">
-                                    <div class="h5"><b><a href="#" class="mouseover-simple size-1">04. ÉLIXIR PERFUME</a></b></div>
+                                    <div class="h5"><b><a href="#" class="mouseover-simple size-1">04. Blog écrivain</a></b></div>
                                 </div>
                                 <div class="col-md-6 col-xs-text-center col-md-text-right">
-                                    <div class="simple-article grey small">branding / photoshooting</div>
+                                    <div class="simple-article grey small">Site From-scratch</div>
                                 </div>
                             </div>
                         </div>
@@ -137,10 +137,10 @@
                         <div class="text-content">
                             <div class="row">
                                 <div class="col-md-6 col-xs-text-center col-md-text-left">
-                                    <div class="h5"><b><a href="#" class="mouseover-simple size-1">05. LUMINANCE</a></b></div>
+                                    <div class="h5"><b><a href="#" class="mouseover-simple size-1">05. Location velo</a></b></div>
                                 </div>
                                 <div class="col-md-6 col-xs-text-center col-md-text-right">
-                                    <div class="simple-article grey small">branding / photoshooting</div>
+                                    <div class="simple-article grey small">Site From-scratch</div>
                                 </div>
                             </div>
                         </div>
@@ -160,10 +160,10 @@
                         <div class="text-content">
                             <div class="row">
                                 <div class="col-md-6 col-xs-text-center col-md-text-left">
-                                    <div class="h5"><b><a href="#" class="mouseover-simple size-1">06. FLAVOURED WATER</a></b></div>
+                                    <div class="h5"><b><a href="#" class="mouseover-simple size-1">06. Sushi</a></b></div>
                                 </div>
                                 <div class="col-md-6 col-xs-text-center col-md-text-right">
-                                    <div class="simple-article grey small">branding / photoshooting</div>
+                                    <div class="simple-article grey small">Site wordpress</div>
                                 </div>
                             </div>
                         </div>
@@ -183,10 +183,10 @@
                         <div class="text-content">
                             <div class="row">
                                 <div class="col-md-6 col-xs-text-center col-md-text-left">
-                                    <div class="h5"><b><a href="#" class="mouseover-simple size-1">07. LAMOUR</a></b></div>
+                                    <div class="h5"><b><a href="#" class="mouseover-simple size-1">07. Hotel</a></b></div>
                                 </div>
                                 <div class="col-md-6 col-xs-text-center col-md-text-right">
-                                    <div class="simple-article grey small">branding / photoshooting</div>
+                                    <div class="simple-article grey small">Site wordpress</div>
                                 </div>
                             </div>
                         </div>
@@ -206,10 +206,10 @@
                         <div class="text-content">
                             <div class="row">
                                 <div class="col-md-6 col-xs-text-center col-md-text-left">
-                                    <div class="h5"><b><a href="#" class="mouseover-simple size-1">08. TRANSCENDENCE</a></b></div>
+                                    <div class="h5"><b><a href="#" class="mouseover-simple size-1">08. Flyer Septimanie</a></b></div>
                                 </div>
                                 <div class="col-md-6 col-xs-text-center col-md-text-right">
-                                    <div class="simple-article grey small">branding / photoshooting</div>
+                                    <div class="simple-article grey small">Flyer</div>
                                 </div>
                             </div>
                         </div>
@@ -229,10 +229,10 @@
                         <div class="text-content">
                             <div class="row">
                                 <div class="col-md-6 col-xs-text-center col-md-text-left">
-                                    <div class="h5"><b><a href="#" class="mouseover-simple size-1">08. TRANSCENDENCE</a></b></div>
+                                    <div class="h5"><b><a href="#" class="mouseover-simple size-1">08. Logo Tristan</a></b></div>
                                 </div>
                                 <div class="col-md-6 col-xs-text-center col-md-text-right">
-                                    <div class="simple-article grey small">branding / photoshooting</div>
+                                    <div class="simple-article grey small">Logo</div>
                                 </div>
                             </div>
                         </div>
@@ -243,7 +243,7 @@
             </div>
         </div>
 
-        <div class="empty-space col-xs-b15"></div>
+        <div class="empty-space col-xs-b55 col-sm-b110"></div>
 
 <?php $contents = ob_get_clean(); ?>
 <?php require('templatePortfolio.php'); ?>

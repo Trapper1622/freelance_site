@@ -203,9 +203,9 @@
     <footer class="type-2 transparent">
       <div class="wide-container-fluid">
         <div class="row">
-          <div class="col-md-6 col-xs-text-center col-md-text-left col-sm-b10 col-md-b0">
+          <div class="col-md-text-center col-xs-text-center col-sm-b10 col-md-b0">
             <div class="copyright">
-              <div class="simple-article small light transparent">
+              <div class="simple-article small">
                 &copy; 2018 Tous droits réservés.
                 <div class="developed-by">Développement de <a href="http://www.tristanb.fr"
                     target="blank">Tristanb</a></div>
@@ -213,7 +213,7 @@
             </div>
             <div class="empty-space col-xs-b20 col-md-b0"></div>
           </div>
-          <div class="col-md-6 col-xs-text-center col-md-text-right">
+          <div class="col-md-text-center col-xs-text-center">
             <div class="follow style-3">
               <a class="entry" href="https://www.linkedin.com/" target="_blank"><i class="fab fa-linkedin"></i></a>
               <a class="entry" href="https://www.facebook.com/" target="_blank"><i class="fab fa-facebook"></i></a>
