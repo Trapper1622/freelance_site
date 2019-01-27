@@ -8,7 +8,7 @@
 
             <div class="row">
                 <div class="col-md-6 col-xs-text-center col-md-text-left">
-                    <div class="h2 small"><b>OUR PORTFOLIO</b></div>
+                    <div class="h2 small"><b>Mes projets</b></div>
                 </div>
                 <div class="empty-space col-xs-b30 col-md-b0"></div>
                 <div class="col-md-6 col-xs-text-center col-md-text-right">
