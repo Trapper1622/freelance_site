@@ -49,9 +49,9 @@
                         <div class="col-md-6 col-md-offset-3 text-center">
                             <div class="slide-title h2 light"><b>Pourquoi me choisir</b></div>
                             <div class="empty-space col-xs-b15"></div>
-                            <div class="slide-description simple-article large light transparent">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras elementum id metus ac tempus. Praesent ut mauris eget velit volutpat posuere nec elit. Etiam efficitur iaculis nulla a commodo. Sed eget mi sed tortor semper volutpat</div>
+                            <div class="slide-description simple-article large light transparent">Mon expérience acquise au fil des projets me permet de mieux comprendre les attentes d'un client et de répondre précisement au besoin demandé en fonction du domaine d'activité</div>
                             <div class="empty-space col-xs-b35"></div>
-                            <a class="button light type-3" href="#">CONTact moi</a>
+                            <a class="button light type-3" href="contact.php">CONTact moi</a>
                         </div>
                     </div>
                 </div>
@@ -124,30 +124,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="services-square-entry">
-                <div class="content">
-                    <div class="layer-1 full-size valign-middle">
-                        <div class="valign-text-wrapper">
-                            <img class="col-xs-b15" src="img/services-icon-7.png" alt="" /><br/>
-                            <div class="h5"><b>UX/UI</b></div>
-                        </div>
-                    </div>
-                    <div class="layer-2 full-size valign-middle">
-                        <div class="valign-text-wrapper">
-                            <div class="h5 light"><b>UI/UX</b></div>
-                            <div class="empty-space col-xs-b10"></div>
-                            <div class="simple-article large light transparent">
-                                Logo design<br/>
-                                Corporate identity<br/>
-                                Styleguide<br/>
-                                Corporative typography<br/>
-                                Poligraphy<br/>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            </div> 
             <div class="services-square-entry">
                 <div class="content">
                     <div class="layer-1 full-size valign-middle">
@@ -161,11 +138,8 @@
                             <div class="h5 light"><b>PHOTOGRAPHY</b></div>
                             <div class="empty-space col-xs-b10"></div>
                             <div class="simple-article large light transparent">
-                                Logo design<br/>
-                                Corporate identity<br/>
-                                Styleguide<br/>
-                                Corporative typography<br/>
-                                Poligraphy<br/>
+                                Photographies pour votre site<br/>
+                                Photographie libre de droit<br/>
                             </div>
                         </div>
                     </div>
@@ -181,12 +155,12 @@
                     <div class="h2 small"><b>Prêt à travailler avec moi ?</b></div>
                     <div class="empty-space col-xs-b15"></div>
                     <div class="simple-article grey">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus hgsed eLorem ipsum dolor sit amet, consectetur adipiscing elitelit
+                        Travaillant régulièrement avec des PME ou particuliers, je vous propose des solutions à votre portée & adaptée à votre budget.
                     </div>
                     <div class="empty-space col-xs-b35"></div>
                     <div class="buttons-align-wrapper">
-                        <a href="#" class="button type-3">CONTactez moi</a>    
-                        <a href="#" class="button type-3">Voir mon travail</a>        
+                        <a href="contact.php" class="button type-3">CONTactez moi</a>    
+                        <a href="portfolio.php" class="button type-3">Voir mon travail</a>        
                     </div>
                 </div>
             </div>

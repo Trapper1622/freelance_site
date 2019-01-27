@@ -1482,7 +1482,7 @@ video{position: absolute; right: 0; top: 0; min-width: 100%; min-height: 100%; w
 /*-------------------------------------------------------------------------------------------------------------------------------*/
 .background-block{background-size: cover; background-position: center top; position: relative;}
 .background-block-shadow:before{position: absolute; left: 0; top: 0; width: 100%; height: 100%; background: rgba(0,0,0,.3); content: "";}
-.services-square-wrapper .services-square-entry{float: left; width: 20%;}
+.services-square-wrapper .services-square-entry{float: left; width: 25%;}
 .services-square-entry{border-right: 1px #e3e3e3 solid; border-bottom: 1px #e3e3e3 solid; border-top: 1px #e3e3e3 solid; margin-top: -1px; text-align: center; overflow: hidden;}
 .services-square-entry .content{padding-bottom: 100%; position: relative;}
 .services-square-entry img{display: inline-block; vertical-align: bottom; max-width: 100%; height: auto;}
