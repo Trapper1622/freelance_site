@@ -32,7 +32,7 @@
                 <div class="grid-sizer"></div>
 
 
-                <div class="sorting-item filter-1">
+                <div class="sorting-item filter-2">
                     <div class="portfolio-landing-entry-1 style-1">
                         <a class="mouseover poster-3d lightbox" data-offset="5" href="projet-1.php" style="background-image: url(img/septimanie.jpg);">
                             <span class="layer-1 full-size" data-offset="10">
@@ -78,7 +78,7 @@
                     </div>
                 </div>
 
-                <div class="sorting-item filter-3">
+                <div class="sorting-item filter-2">
                     <div class="portfolio-landing-entry-1 style-1">
                         <a class="mouseover poster-3d lightbox" data-offset="5" href="img/portfolio-29.jpg" style="background-image: url(img/eduknin.jpg);">
                             <span class="layer-1 full-size" data-offset="10">
@@ -101,7 +101,7 @@
                     </div>
                 </div>
 
-                <div class="sorting-item filter-4">
+                <div class="sorting-item filter-3 filter-4">
                     <div class="portfolio-landing-entry-1 style-1">
                         <a class="mouseover poster-3d lightbox" data-offset="5" href="img/portfolio-30.jpg" style="background-image: url(img/projet4.jpg);">
                             <span class="layer-1 full-size" data-offset="10">
@@ -124,7 +124,7 @@
                     </div>
                 </div>
 
-                <div class="sorting-item filter-5">
+                <div class="sorting-item filter-3 filter-4">
                     <div class="portfolio-landing-entry-1 style-1">
                         <a class="mouseover poster-3d lightbox" data-offset="5" href="img/portfolio-31.jpg" style="background-image: url(img/projet3.jpg);">
                             <span class="layer-1 full-size" data-offset="10">
@@ -147,7 +147,7 @@
                     </div>
                 </div>
 
-                <div class="sorting-item filter-6">
+                <div class="sorting-item filter-2">
                     <div class="portfolio-landing-entry-1 style-1">
                         <a class="mouseover poster-3d lightbox" data-offset="5" href="img/portfolio-32.jpg" style="background-image: url(img/sushi.jpg);">
                             <span class="layer-1 full-size" data-offset="10">
@@ -170,7 +170,7 @@
                     </div>
                 </div>
 
-                <div class="sorting-item filter-1">
+                <div class="sorting-item filter-2">
                     <div class="portfolio-landing-entry-1 style-1">
                         <a class="mouseover poster-3d lightbox" data-offset="5" href="img/portfolio-33.jpg" style="background-image: url(img/portfolio-33.jpg);">
                             <span class="layer-1 full-size" data-offset="10">
@@ -193,7 +193,7 @@
                     </div>
                 </div>
 
-                <div class="sorting-item filter-2">
+                <div class="sorting-item filter-6">
                     <div class="portfolio-landing-entry-1 style-1">
                         <a class="mouseover poster-3d lightbox" data-offset="5" href="img/portfolio-34.jpg" style="background-image: url(img/portfolio-34.jpg);">
                             <span class="layer-1 full-size" data-offset="10">
@@ -216,7 +216,7 @@
                     </div>
                 </div>
 
-                <div class="sorting-item filter-3">
+                <div class="sorting-item filter-5">
                     <div class="portfolio-landing-entry-1 style-1">
                         <a class="mouseover poster-3d lightbox" data-offset="5" href="img/portfolio-35.jpg" style="background-image: url(img/portfolio-35.jpg);">
                             <span class="layer-1 full-size" data-offset="10">
