@@ -39,14 +39,6 @@
                       siren : 
                     </div>
 
-                    <div class="empty-space col-xs-b15 col-sm-b30"></div>
-
-                    <div class="follow style-4">
-                      <a class="entry" href="#"><i class="fab fa-instagram"></i></a>
-                      <a class="entry" href="#"><i class="fab fa-facebook"></i></a>
-                      <a class="entry" href="#"><i class="fab fa-twitter"></i></a>
-                    </div>
-
                     <div class="empty-space col-xs-b55 col-sm-b110"></div>
                   </div>
                 </div>

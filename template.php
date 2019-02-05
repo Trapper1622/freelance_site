@@ -83,7 +83,7 @@
                 <p>Téléphone: <a class="mouseover-simple" href="tel:+0009872251" style="color: #fff;"><b>06 51 61 21 13</b></a></p>
               </div>
               <div class="empty-space col-xs-b15"></div>
-              <div class="follow style-3">
+              <div class="follow style-1">
                 <a href="https://www.linkedin.com/in/tristan-broch/" target="_blank" class="entry"><i class="fab fa-linkedin"></i></a>
                 <a href="#" target="_blank" class="entry"><i class="fab fa-facebook"></i></a>
                 <a href="https://twitter.com/BrochTristan" target="_blank" class="entry"><i class="fab fa-twitter"></i></a>

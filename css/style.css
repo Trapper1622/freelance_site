@@ -620,11 +620,7 @@ footer.light .copyright a{color: #222;}
 .follow .entry{width: 30px; height: 30px; text-align: center; color: #6f6f6f; border-radius: 50%; -webkit-border-radius: 50%; display: inline-block; margin: 0 5px; position: relative; border: 1px transparent solid; background: #111; font-size: 12px; vertical-align: bottom;}
 .follow .entry:last-child{margin-right: 0;}
 .follow .entry .fa{position: relative; line-height: 28px;}
-.follow .entry:before{position: absolute; border-radius: 50%; -webkit-border-radius: 50%; left: -2px; top: -2px; right: -2px; bottom: -2px; content: ""; background: #fff; transform: scale(0); -webkit-transform: scale(0);}
-.follow .entry:hover:before{transform: scale(1); -webkit-transform: scale(1);}
-.follow .entry:hover{color: #111;}
 .follow.style-1 .entry{color: #989898; background: none;}
-.follow.style-1 .entry:hover{color: #fff;}
 .follow.style-1 .entry:before{background: #989898;}
 .follow.style-1 .title{color: #222;}
 .follow.style-2 .entry{color: #9b9ca0; background: none; border-color: #9b9ca0;}
