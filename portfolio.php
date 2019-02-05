@@ -172,7 +172,7 @@
 
                 <div class="sorting-item filter-2">
                     <div class="portfolio-landing-entry-1 style-1">
-                        <a class="mouseover poster-3d lightbox" data-offset="5" href="img/portfolio-33.jpg" style="background-image: url(img/portfolio-33.jpg);">
+                        <a class="mouseover poster-3d lightbox" data-offset="5" href="img/portfolio-33.jpg" style="background-image: url(img/hotelDelPlaya.png);">
                             <span class="layer-1 full-size" data-offset="10">
                                 <span class="mouseover-helper-frame"></span>
                             </span>
