@@ -13,24 +13,30 @@
                   <div class="col-md-6 col-md-offset-3 text-center">
                     <div class="empty-space col-xs-b55 col-sm-b110"></div>
 
-                    <div class="h4"><b>CONTACTER MOI</b></div>
+                    <div class="h4"><b>CONTACTEZ MOI</b></div>
 
                     <div class="empty-space col-xs-b15"></div>
 
                     <div class="simple-article grey">
-                      Lorem ipsum dolor sit amet, consectetur adipiscing sit elithiu tempor vulputate felis
+                      Une idée ? un projet ? n'hésitez pas à demander un devis (gratuit) !
                     </div>
 
                     <div class="empty-space col-xs-b15 col-sm-b30"></div>
 
                     <div class="simple-article grey">
-                      319 Clematis St.Suite 100 WPB, FL 33401
+                      Montpellier
                     </div>
 
                     <div class="empty-space col-xs-b15 col-sm-b30"></div>
 
                     <div class="simple-article grey">
-                      <a class="mouseover-simple" href="tel:+380982367536">+ 38 098 236 75 36</a>
+                      <a class="mouseover-simple" href="tel:+380982367536">+(33) 6 51 61 21 13</a>
+                    </div>
+
+                    <div class="empty-space col-xs-b15 col-sm-b30"></div>
+
+                    <div class="simple-article grey">
+                      siren : 
                     </div>
 
                     <div class="empty-space col-xs-b15 col-sm-b30"></div>
@@ -38,9 +44,7 @@
                     <div class="follow style-4">
                       <a class="entry" href="#"><i class="fab fa-instagram"></i></a>
                       <a class="entry" href="#"><i class="fab fa-facebook"></i></a>
-                      <a class="entry" href="#"><i class="fab fa-pinterest-p"></i></a>
                       <a class="entry" href="#"><i class="fab fa-twitter"></i></a>
-                      <a class="entry" href="#"><i class="fab fa-google-plus"></i></a>
                     </div>
 
                     <div class="empty-space col-xs-b55 col-sm-b110"></div>
@@ -65,7 +69,7 @@
     <div class="col-xs-10 col-xs-offset-1">
       <div class="empty-space col-xs-b55 col-sm-b110"></div>
 
-      <div class="h4 text-center"><b>HAVE A QUESTION?</b></div>
+      <div class="h4 text-center"><b>Vous avez une question ?</b></div>
 
       <div class="empty-space col-xs-b30 col-sm-b60"></div>
 
@@ -74,7 +78,7 @@
           <div class="col-sm-6 col-xs-b30 col-sm-b0">
             <div class="input-wrapper">
               <input name="name" class="input" type="text">
-              <label>Name</label>
+              <label>Nom</label>
               <span></span>
             </div>
           </div>
@@ -90,7 +94,7 @@
           <div class="col-sm-12">
             <div class="input-wrapper">
               <input name="subject" class="input" type="text">
-              <label>Subject</label>
+              <label>Sujet</label>
               <span></span>
             </div>
           </div>
@@ -108,7 +112,7 @@
         <div class="empty-space col-xs-b40"></div>
 
         <div class="text-center">
-          <div class="button type-3">submit message<input type="submit" /></div>
+          <div class="button type-3">Envoyer message<input type="submit" /></div>
         </div>
       </form>
 
