@@ -195,7 +195,7 @@
 
                 <div class="sorting-item filter-6">
                     <div class="portfolio-landing-entry-1 style-1">
-                        <a class="mouseover poster-3d lightbox" data-offset="5" href="img/portfolio-34.jpg" style="background-image: url(img/portfolio-34.jpg);">
+                        <a class="mouseover poster-3d lightbox" data-offset="5" href="img/portfolio-34.jpg" style="background-image: url(img/flyerSeptimanie.jpg);">
                             <span class="layer-1 full-size" data-offset="10">
                                 <span class="mouseover-helper-frame"></span>
                             </span>
@@ -218,7 +218,7 @@
 
                 <div class="sorting-item filter-5">
                     <div class="portfolio-landing-entry-1 style-1">
-                        <a class="mouseover poster-3d lightbox" data-offset="5" href="img/portfolio-35.jpg" style="background-image: url(img/portfolio-35.jpg);">
+                        <a class="mouseover poster-3d lightbox" data-offset="5" href="img/portfolio-35.jpg" style="background-image: url(img/logoTristan.jpg);">
                             <span class="layer-1 full-size" data-offset="10">
                                 <span class="mouseover-helper-frame"></span>
                             </span>

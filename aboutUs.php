@@ -96,7 +96,6 @@
                         <div class="col-sm-3 text-left">
                             <div class="simple-article grey">
                                 <p><span>frameworks / autres</span>
-                                    <br>
                                 <br>
                                 - Reactjs<br>
                                 - Bootstrap 4<br>

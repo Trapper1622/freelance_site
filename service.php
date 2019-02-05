@@ -135,7 +135,7 @@
                     </div>
                     <div class="layer-2 full-size valign-middle">
                         <div class="valign-text-wrapper">
-                            <div class="h5 light"><b>PHOTOGRAPHY</b></div>
+                            <div class="h5 light"><b>PHOTOGRAPHIE</b></div>
                             <div class="empty-space col-xs-b10"></div>
                             <div class="simple-article large light transparent">
                                 Photographies pour votre site<br/>
