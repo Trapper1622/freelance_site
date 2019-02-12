@@ -1,7 +1,7 @@
 <?php ob_start(); ?>
 
 
-<div class="fixed-background" style="background-image: url(img/background-150.jpg);">
+<div class="fixed-background" style="background-image: url(img/background-contact.jpg);">
   <div class="contacts-wrapper-2">
     <div class="cell-view page-height">
       <div class="container">
@@ -35,9 +35,9 @@
 
                     <div class="empty-space col-xs-b15 col-sm-b30"></div>
 
-                    <div class="simple-article grey">
+                    <!-- <div class="simple-article grey">
                       siren : 
-                    </div>
+                    </div> -->
 
                     <div class="empty-space col-xs-b55 col-sm-b110"></div>
                   </div>
@@ -65,18 +65,20 @@
 
       <div class="empty-space col-xs-b30 col-sm-b60"></div>
 
-      <form class="contact-form">
+      <!-- <form class="contact-form" id="contact-form" method="post" action="" role="form">
         <div class="row col-xs-b30">
           <div class="col-sm-6 col-xs-b30 col-sm-b0">
             <div class="input-wrapper">
-              <input name="name" class="input" type="text">
+              <p class="comments"></p>
+              <input name="name" id="name" class="input" type="text">
               <label>Nom</label>
               <span></span>
             </div>
           </div>
           <div class="col-sm-6">
             <div class="input-wrapper">
-              <input name="email" class="input" type="text">
+              <p class="comments"></p>
+              <input name="email" id="email" class="input" type="text">
               <label>Email</label>
               <span></span>
             </div>
@@ -85,7 +87,7 @@
         <div class="row col-xs-b30">
           <div class="col-sm-12">
             <div class="input-wrapper">
-              <input name="subject" class="input" type="text">
+              <input name="subject" id="subject" class="input" type="text">
               <label>Sujet</label>
               <span></span>
             </div>
@@ -94,7 +96,8 @@
         <div class="row">
           <div class="col-sm-12">
             <div class="input-wrapper">
-              <textarea name="message" class="input"></textarea>
+              <p class="comments"></p>
+              <textarea name="message" id="message" class="input"></textarea>
               <label>Message</label>
               <span></span>
             </div>
@@ -106,7 +109,46 @@
         <div class="text-center">
           <div class="button type-3">Envoyer message<input type="submit" /></div>
         </div>
+      </form> -->
+
+      <form id="contact-form" class="contact-form" method="post" action="" role="form">
+        <div class="row col-xs-b30">
+          <div class="col-sm-6 col-xs-b30 col-sm-b0"> 
+            <div class="input-wrapper">
+              <input type="text" id="name" name="name" class="input" value="" required/>  
+              <label>Nom *</label> 
+              <span></span>
+            </div>
+          </div>
+          <div class="col-sm-6"> 
+            <div class="input-wrapper">
+              <input type="email" id="email" name="email" class="input"value="" required/>
+              <label>Email *</label>
+              <span></span>
+            </div>
+          </div>
+        </div>
+          <div class="row">
+            <div class="col-sm-12">
+              <div class="input-wrapper">
+                  <textarea id="message" name="message" class="input" required></textarea>
+                  <label>Message *</label>
+                  <span></span>
+                </div>
+            </div>
+          </div>
+          <div class="empty-space col-xs-b40"></div>
+            <p><strong>* Ces informations sont requises</strong></p>
+            <p class="comments"></p>
+          <div class="empty-space col-xs-b40"></div>
+            <div class="text-center">
+              <div class="button type-3">Envoyer message<input type="submit" /></div>
+            </div>
+        
       </form>
+
+
+
 
       <div class="empty-space col-xs-b55 col-sm-b110"></div>
     </div>

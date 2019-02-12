@@ -231,12 +231,10 @@
   <script src="js/swiper.jquery.min.js"></script>
   <script src="js/jquery.mousewheel.min.js"></script>
   <script src="js/global.js"></script>
+  <script src="js/contact-form.js"></script>
 
   <script src="js/modernizr.custom.js"></script>
   <script src="js/boxesFx.js"></script>
-  <script>
-    new BoxesFx(document.getElementById('boxgallery'));
-  </script>
 
 </body>
 
