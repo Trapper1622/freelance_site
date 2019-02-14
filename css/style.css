@@ -609,7 +609,7 @@ body.mobile .overlay.frame.active{left: 30px;}
 footer{padding: 42.5px 0; background: #222; line-height: 30px; position: relative; z-index: 1;}
 .copyright{padding: 3px 0;}
 .copyright .simple-article{font-family: inherit!important; font-weight: 400!important;}
-.copyright .simple-article.light.transparent{color: rgba(255,255,255,.5);}
+.copyright .simple-article.light.transparent{color: rgba(0,0,0,.5);}
 .copyright .fa{color: #fe2b2b;}
 .copyright a{color: #000; text-decoration: none!important;}
 footer.light .copyright a{color: #222;}

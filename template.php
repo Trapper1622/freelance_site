@@ -208,7 +208,7 @@
           <div class="col-md-6 col-xs-text-center col-md-text-left col-sm-b10 col-md-b0">
             <div class="copyright">
               <div class="simple-article small light transparent">
-                &copy; 2018 Tous droits réservés.
+                &copy; 2019 Tous droits réservés.
                 <div class="developed-by">Développement de <a href="http://www.tristanb.fr"
                     target="blank">Tristanb</a></div>
               </div>
@@ -235,7 +235,9 @@
 
   <script src="js/modernizr.custom.js"></script>
   <script src="js/boxesFx.js"></script>
-
+  <script>
+        new BoxesFx( document.getElementById( 'boxgallery' ) );
+  </script>
 </body>
 
 </html>
