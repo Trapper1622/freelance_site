@@ -217,9 +217,9 @@
           </div>
           <div class="col-md-6 col-xs-text-center col-md-text-right">
             <div class="follow style-3">
-              <a class="entry" href="https://www.linkedin.com/" target="_blank"><i class="fab fa-linkedin"></i></a>
-              <a class="entry" href="https://www.facebook.com/" target="_blank"><i class="fab fa-facebook"></i></a>
-              <a class="entry" href="https://twitter.com/" target="_blank"><i class="fab fa-twitter"></i></a>
+              <a class="entry" href="https://www.linkedin.com/in/tristan-broch/" target="_blank"><i class="fab fa-linkedin"></i></a>
+              <!-- <a class="entry" href="https://www.facebook.com/" target="_blank"><i class="fab fa-facebook"></i></a> -->
+              <a class="entry" href="https://twitter.com/BrochTristan" target="_blank"><i class="fab fa-twitter"></i></a>
             </div>
           </div>
         </div>

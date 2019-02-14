@@ -34,7 +34,7 @@
                   </div> -->
                   <div class="empty-space col-xs-b35"></div>
                   <div class="text-animation delay-3">
-                    <a href="#" class="button type-3 light">Voir plus</a>
+                    <a href="service.php" class="button type-3 light">Voir plus</a>
                   </div>
                 </div>
               </div>
@@ -53,7 +53,7 @@
                   </div>
                   <div class="empty-space col-xs-b35"></div>
                   <div class="text-animation delay-3">
-                    <a href="#" class="button type-3 light">voir plus</a>
+                    <a href="service.php" class="button type-3 light">voir plus</a>
                   </div>
                 </div>
               </div>
@@ -72,7 +72,7 @@
                   </div>
                   <div class="empty-space col-xs-b35"></div>
                   <div class="text-animation delay-3">
-                    <a href="#" class="button type-3 light">voir plus</a>
+                    <a href="service.php" class="button type-3 light">voir plus</a>
                   </div>
                 </div>
               </div>

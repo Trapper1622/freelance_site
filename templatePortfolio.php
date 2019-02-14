@@ -206,7 +206,7 @@
           <div class="col-md-text-center col-xs-text-center col-sm-b10 col-md-b0">
             <div class="copyright">
               <div class="simple-article small">
-                &copy; 2018 Tous droits réservés.
+                &copy; 2019 Tous droits réservés.
                 <div class="developed-by">Développement de <a href="http://www.tristanb.fr"
                     target="blank">Tristanb</a></div>
               </div>
@@ -215,9 +215,9 @@
           </div>
           <div class="col-md-text-center col-xs-text-center">
             <div class="follow style-3">
-              <a class="entry" href="https://www.linkedin.com/" target="_blank"><i class="fab fa-linkedin"></i></a>
-              <a class="entry" href="https://www.facebook.com/" target="_blank"><i class="fab fa-facebook"></i></a>
-              <a class="entry" href="https://twitter.com/" target="_blank"><i class="fab fa-twitter"></i></a>
+              <a class="entry" href="https://www.linkedin.com/in/tristan-broch/" target="_blank"><i class="fab fa-linkedin"></i></a>
+              <!-- <a class="entry" href="https://www.facebook.com/" target="_blank"><i class="fab fa-facebook"></i></a> -->
+              <a class="entry" href="https://twitter.com/BrochTristan" target="_blank"><i class="fab fa-twitter"></i></a>
             </div>
           </div>
         </div>
