@@ -90,7 +90,7 @@
               </div>
             </div>
             <div class="col-sm-6 col-md-4 col-md-offset-1">
-              <div class="twitter-entry col-xs-b15 col-sm-b30">
+              <!-- <div class="twitter-entry col-xs-b15 col-sm-b30">
                 <div class="row col-xs-b15">
                   <div class="col-xs-6">
                     <div class="date"><i>20 min ago</i></div>
@@ -104,7 +104,7 @@
                 <a href="#" class="author">@modestodesign</a>
                 <div class="col-xs-b10"></div>
                 <a href="#" class="link"><i>https://www.youtube.com/</i></a>
-              </div>
+              </div> -->
               <div class="overlay-thumbnails-wrapper">
                  <div class="row nopadding">
                   <div class="col-xs-4"><a class="overlay-thumbnail" href="#"><img src="img/projet1.jpg" alt="" /><img
@@ -142,7 +142,7 @@
 
             <div class="navigation-wrapper">
 
-              <a class="logo responsive"><img src="img/logo.png" alt="" /></a>
+              <a class="logo responsive"><img src="img/logo-carre.png" alt="" /></a>
 
               <div class="navigation-overflow">
                 <nav class="text-left clearfix">
@@ -173,9 +173,9 @@
               </div>
 
               <div class="follow style-1">
-                <a class="entry" href="#"><i class="fab fa-linkedin"></i></a>
-                <a class="entry" href="#"><i class="fab fa-facebook"></i></a>
-                <a class="entry" href="#"><i class="fab fa-twitter"></i></a>
+                <a class="entry" href="https://www.linkedin.com/in/tristan-broch/"><i class="fab fa-linkedin"></i></a>
+                <!-- <a class="entry" href="#"><i class="fab fa-facebook"></i></a> -->
+                <a class="entry" href="https://twitter.com/BrochTristan"><i class="fab fa-twitter"></i></a>
               </div>
 
             </div>

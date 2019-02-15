@@ -11,7 +11,7 @@
               <img src="img/background-103.jpg" alt="" />
             </div>
             <div class="panel">
-              <img src="img/background-100.jpg" alt="" />
+              <img src="img/background-110.jpg" alt="" />
             </div>
             <div class="panel">
               <img src="img/background-101.jpg" alt="" />

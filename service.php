@@ -13,7 +13,7 @@
 
                         <div class="swiper-wrapper">
 
-                            <div class="swiper-slide" style="background-image: url(img/background-80.jpg);">
+                            <div class="swiper-slide" style="background-image: url(img/background-82.jpg);">
                                 <div class="full-size valign-middle">
                                     <div class="valign-text-wrapper text-center">
                                         <div class="slide-title h2"><b>Mes Services</b></div>
@@ -39,7 +39,7 @@
 
         <div class="empty-space col-xs-b15 col-sm-b110"></div>
 
-        <div class="fixed-background" style="background-image: url(img/background-81.jpg);">
+        <div class="fixed-background" style="background-image: url(img/background-85.jpg);">
             <div class="background-block background-block-shadow">
                 <div class="empty-space col-xs-b50 col-sm-b100"></div>
                 <div class="empty-space col-sm-b100"></div>

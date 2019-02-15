@@ -114,10 +114,11 @@
             <div class="empty-space col-xs-b55 col-sm-b110"></div>
 
         <div class="row nopadding">
-            <div class="col-xs-6 col-sm-3 nopadding"><img class="image-wide-thumbnail" src="img/thumbnail-81.jpg" alt="" /></div>
+            <!-- <div class="col-xs-6 col-sm-3 nopadding"><img class="image-wide-thumbnail" src="img/thumbnail-81.jpg" alt="" /></div>
             <div class="col-xs-6 col-sm-3 nopadding"><img class="image-wide-thumbnail" src="img/thumbnail-82.jpg" alt="" /></div>
             <div class="col-xs-6 col-sm-3 nopadding"><img class="image-wide-thumbnail" src="img/thumbnail-83.jpg" alt="" /></div>
-            <div class="col-xs-6 col-sm-3 nopadding"><img class="image-wide-thumbnail" src="img/thumbnail-84.jpg" alt="" /></div>
+            <div class="col-xs-6 col-sm-3 nopadding"><img class="image-wide-thumbnail" src="img/thumbnail-84.jpg" alt="" /></div> -->
+            <div class="col-xs-12 col-sm-12 nopadding"><img class="image-wide-thumbnail" src="img/footer-about.jpg" alt="" /></div>
         </div>
 
         <div class="empty-space col-xs-b55 col-sm-b110"></div>
