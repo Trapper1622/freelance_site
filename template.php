@@ -27,7 +27,7 @@
         <link href="css/ie9.css" rel="stylesheet" type="text/css" />
     <![endif]-->
 
-  <link rel="shortcut icon" href="img/favicon.ico" />
+  <link rel="shortcut icon" href="img/favicon.jpg" />
   <title>Tristan Broch</title>
 </head>
 

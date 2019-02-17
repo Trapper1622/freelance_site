@@ -51,7 +51,7 @@
                             <div class="empty-space col-xs-b15"></div>
                             <div class="slide-description simple-article large light transparent">Mon expérience acquise au fil des projets me permet de mieux comprendre les attentes d'un client et de répondre précisement au besoin demandé en fonction du domaine d'activité</div>
                             <div class="empty-space col-xs-b35"></div>
-                            <a class="button light type-3" href="contact.php">CONTact moi</a>
+                            <a class="button light type-3" href="contact.php">CONTactez moi</a>
                         </div>
                     </div>
                 </div>
