@@ -229,7 +229,73 @@
                         <div class="text-content">
                             <div class="row">
                                 <div class="col-md-6 col-xs-text-center col-md-text-left">
-                                    <div class="h5"><b><a href="#" class="mouseover-simple size-1">08. Logo Tristan</a></b></div>
+                                    <div class="h5"><b><a href="#" class="mouseover-simple size-1">09. Logo Tristan</a></b></div>
+                                </div>
+                                <div class="col-md-6 col-xs-text-center col-md-text-right">
+                                    <div class="simple-article grey small">Logo</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="sorting-item filter-2">
+                    <div class="portfolio-landing-entry-1 style-1">
+                        <a class="mouseover poster-3d lightbox" data-offset="5" href="img/portfolio-35.jpg" style="background-image: url(img/oceaned.jpg);">
+                            <span class="layer-1 full-size" data-offset="10">
+                                <span class="mouseover-helper-frame"></span>
+                            </span>
+                            <span class="layer-1 full-size" data-offset="20">
+                                <span class="mouseover-helper-icon"></span>
+                            </span>
+                        </a>
+                        <div class="text-content">
+                            <div class="row">
+                                <div class="col-md-6 col-xs-text-center col-md-text-left">
+                                    <div class="h5"><b><a href="#" class="mouseover-simple size-1">10. Community manager</a></b></div>
+                                </div>
+                                <div class="col-md-6 col-xs-text-center col-md-text-right">
+                                    <div class="simple-article grey small">Site wordpress</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="sorting-item filter-5">
+                    <div class="portfolio-landing-entry-1 style-1">
+                        <a class="mouseover poster-3d lightbox" data-offset="5" href="img/portfolio-35.jpg" style="background-image: url(img/logoTristan.jpg);">
+                            <span class="layer-1 full-size" data-offset="10">
+                                <span class="mouseover-helper-frame"></span>
+                            </span>
+                            <span class="layer-1 full-size" data-offset="20">
+                                <span class="mouseover-helper-icon"></span>
+                            </span>
+                        </a>
+                        <div class="text-content">
+                            <div class="row">
+                                <div class="col-md-6 col-xs-text-center col-md-text-left">
+                                    <div class="h5"><b><a href="#" class="mouseover-simple size-1">11. Logo Tristan</a></b></div>
+                                </div>
+                                <div class="col-md-6 col-xs-text-center col-md-text-right">
+                                    <div class="simple-article grey small">Logo</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="sorting-item filter-5">
+                    <div class="portfolio-landing-entry-1 style-1">
+                        <a class="mouseover poster-3d lightbox" data-offset="5" href="img/portfolio-35.jpg" style="background-image: url(img/logoTristan.jpg);">
+                            <span class="layer-1 full-size" data-offset="10">
+                                <span class="mouseover-helper-frame"></span>
+                            </span>
+                            <span class="layer-1 full-size" data-offset="20">
+                                <span class="mouseover-helper-icon"></span>
+                            </span>
+                        </a>
+                        <div class="text-content">
+                            <div class="row">
+                                <div class="col-md-6 col-xs-text-center col-md-text-left">
+                                    <div class="h5"><b><a href="#" class="mouseover-simple size-1">12. Logo Tristan</a></b></div>
                                 </div>
                                 <div class="col-md-6 col-xs-text-center col-md-text-right">
                                     <div class="simple-article grey small">Logo</div>
