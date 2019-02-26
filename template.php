@@ -79,8 +79,8 @@
               <div class="simple-article light transparent col-xs-b30 col-sm-b50">
                 <div class="h4 small">CONTACT </div>
                 <div class="empty-space col-xs-b10"></div>
-                <p>Email: <a class="mouseover-simple" href="mailto:modesto@email.com" style="color: #fff;"><b>tristan.broch@gmail.com</b></a></p>
-                <p>Téléphone: <a class="mouseover-simple" href="tel:+0009872251" style="color: #fff;"><b>06 51 61 21 13</b></a></p>
+                <p>Email: <a class="mouseover-simple" href="mailto:modesto@email.com" style="color: #fff;"><b>contact@tristanb.fr</b></a></p>
+                <!-- <p>Téléphone: <a class="mouseover-simple" href="tel:+0009872251" style="color: #fff;"><b>06 51 61 21 13</b></a></p> -->
               </div>
               <div class="empty-space col-xs-b15"></div>
               <div class="follow style-1">
@@ -107,19 +107,19 @@
               </div> -->
               <div class="overlay-thumbnails-wrapper">
                  <div class="row nopadding">
-                  <div class="col-xs-4"><a class="overlay-thumbnail" href="#"><img src="img/projet1.jpg" alt="" /><img
-                        src="img/projet1.jpg" alt="" /></a></div>
-                  <div class="col-xs-4"><a class="overlay-thumbnail" href="#"><img src="img/projet2.jpg" alt="" /><img
-                        src="img/projet2.jpg" alt="" /></a></div>
-                  <div class="col-xs-4"><a class="overlay-thumbnail" href="#"><img src="img/projet3.jpg" alt="" /><img
+                  <div class="col-xs-4"><a class="overlay-thumbnail" href="portfolio.php"><img src="img/sushi.jpg" alt="" /><img
+                        src="img/sushi.jpg" alt="" /></a></div>
+                  <div class="col-xs-4"><a class="overlay-thumbnail" href="portfolio.php"><img src="img/eduknin.jpg" alt="" /><img
+                        src="img/eduknin.jpg" alt="" /></a></div>
+                  <div class="col-xs-4"><a class="overlay-thumbnail" href="portfolio.php"><img src="img/projet3.jpg" alt="" /><img
                         src="img/projet3.jpg" alt="" /></a></div>
                   <div class="clear"></div>
-                  <div class="col-xs-4"><a class="overlay-thumbnail" href="#"><img src="img/projet4.jpg" alt="" /><img
+                  <div class="col-xs-4"><a class="overlay-thumbnail" href="portfolio.php"><img src="img/projet4.jpg" alt="" /><img
                         src="img/projet4.jpg" alt="" /></a></div>
-                  <div class="col-xs-4"><a class="overlay-thumbnail" href="#"><img src="img/projet5.jpg" alt="" /><img
-                        src="img/projet5.jpg" alt="" /></a></div>
-                  <div class="col-xs-4"><a class="overlay-thumbnail" href="#"><img src="img/loubiere.png" alt="" /><img
-                        src="img/loubiere.png" alt="" /></a></div>
+                  <div class="col-xs-4"><a class="overlay-thumbnail" href="portfolio.php"><img src="img/oceaned.jpg" alt="" /><img
+                        src="img/oceaned.jpg" alt="" /></a></div>
+                  <div class="col-xs-4"><a class="overlay-thumbnail" href="portfolio.php"><img src="img/arthautekCouv.jpg" alt="" /><img
+                        src="img/arthautekCouv.jpg" alt="" /></a></div>
                 </div>
               </div>
             </div>

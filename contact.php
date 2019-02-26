@@ -27,10 +27,16 @@
                       Montpellier
                     </div>
 
+                    <!-- <div class="empty-space col-xs-b15 col-sm-b30"></div>
+
+                    <div class="simple-article grey">
+                      <a href="tel:+3783034788">+(33) 7 83 03 47 88</a>
+                    </div> -->
+
                     <div class="empty-space col-xs-b15 col-sm-b30"></div>
 
                     <div class="simple-article grey">
-                      <a class="mouseover-simple" href="tel:+380982367536">+(33) 6 51 61 21 13</a>
+                      <a href="mailto:contact@tristanb.fr">contact@tristanb.fr</a>
                     </div>
 
                     <div class="empty-space col-xs-b15 col-sm-b30"></div>

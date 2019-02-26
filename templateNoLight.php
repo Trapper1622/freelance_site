@@ -80,8 +80,8 @@
               <div class="simple-article light transparent col-xs-b30 col-sm-b50">
                 <div class="h4 small">CONTACT </div>
                 <div class="empty-space col-xs-b10"></div>
-                <p>Email: <a class="mouseover-simple" href="mailto:modesto@email.com" style="color: #fff;"><b>tristan.broch@gmail.com</b></a></p>
-                <p>Téléphone: <a class="mouseover-simple" href="tel:+0009872251" style="color: #fff;"><b>06 51 61 21 13</b></a></p>
+                <p>Email: <a class="mouseover-simple" href="mailto:modesto@email.com" style="color: #fff;"><b>contact@tristanb.fr</b></a></p>
+                <!-- <p>Téléphone: <a class="mouseover-simple" href="tel:+0009872251" style="color: #fff;"><b>06 51 61 21 13</b></a></p> -->
               </div>
               <div class="empty-space col-xs-b15"></div>
               <div class="follow style-3">
@@ -91,36 +91,21 @@
               </div>
             </div>
             <div class="col-sm-6 col-md-4 col-md-offset-1">
-              <div class="twitter-entry col-xs-b15 col-sm-b30">
-                <div class="row col-xs-b15">
-                  <div class="col-xs-6">
-                    <div class="date"><i>20 min ago</i></div>
-                  </div>
-                  <div class="col-xs-6 text-right">
-                    <i class="fa fab-twitter"></i>
-                  </div>
-                </div>
-                <div class="simple-article light col-xs-b10">Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</div>
-                <a href="#" class="author">@modestodesign</a>
-                <div class="col-xs-b10"></div>
-                <a href="#" class="link"><i>https://www.youtube.com/</i></a>
-              </div>
               <div class="overlay-thumbnails-wrapper">
                  <div class="row nopadding">
-                  <div class="col-xs-4"><a class="overlay-thumbnail" href="#"><img src="img/projet1.jpg" alt="" /><img
-                        src="img/projet1.jpg" alt="" /></a></div>
-                  <div class="col-xs-4"><a class="overlay-thumbnail" href="#"><img src="img/projet2.jpg" alt="" /><img
-                        src="img/projet2.jpg" alt="" /></a></div>
-                  <div class="col-xs-4"><a class="overlay-thumbnail" href="#"><img src="img/projet3.jpg" alt="" /><img
+                  <div class="col-xs-4"><a class="overlay-thumbnail" href="portfolio.php"><img src="img/sushi.jpg" alt="" /><img
+                        src="img/sushi.jpg" alt="" /></a></div>
+                  <div class="col-xs-4"><a class="overlay-thumbnail" href="portfolio.php"><img src="img/eduknin.jpg" alt="" /><img
+                        src="img/eduknin.jpg" alt="" /></a></div>
+                  <div class="col-xs-4"><a class="overlay-thumbnail" href="portfolio.php"><img src="img/projet3.jpg" alt="" /><img
                         src="img/projet3.jpg" alt="" /></a></div>
                   <div class="clear"></div>
-                  <div class="col-xs-4"><a class="overlay-thumbnail" href="#"><img src="img/projet4.jpg" alt="" /><img
+                  <div class="col-xs-4"><a class="overlay-thumbnail" href="portfolio.php"><img src="img/projet4.jpg" alt="" /><img
                         src="img/projet4.jpg" alt="" /></a></div>
-                  <div class="col-xs-4"><a class="overlay-thumbnail" href="#"><img src="img/projet5.jpg" alt="" /><img
-                        src="img/projet5.jpg" alt="" /></a></div>
-                  <div class="col-xs-4"><a class="overlay-thumbnail" href="#"><img src="img/loubiere.png" alt="" /><img
-                        src="img/loubiere.png" alt="" /></a></div>
+                  <div class="col-xs-4"><a class="overlay-thumbnail" href="portfolio.php"><img src="img/oceaned.jpg" alt="" /><img
+                        src="img/oceaned.jpg" alt="" /></a></div>
+                  <div class="col-xs-4"><a class="overlay-thumbnail" href="portfolio.php"><img src="img/arthautekCouv.jpg" alt="" /><img
+                        src="img/arthautekCouv.jpg" alt="" /></a></div>
                 </div>
               </div>
             </div>

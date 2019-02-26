@@ -34,7 +34,7 @@
 
                 <div class="sorting-item filter-2">
                     <div class="portfolio-landing-entry-1 style-1">
-                        <a class="mouseover poster-3d lightbox" data-offset="5" href="projet-1.php" style="background-image: url(img/septimanie.jpg);">
+                        <a class="mouseover poster-3d lightbox" data-offset="5" href="#" style="background-image: url(img/septimanie.jpg);">
                             <span class="layer-1 full-size" data-offset="10">
                                 <span class="mouseover-helper-frame"></span>
                             </span>
@@ -57,7 +57,7 @@
 
                 <div class="sorting-item filter-2">
                     <div class="portfolio-landing-entry-1 style-1">
-                        <a class="mouseover poster-3d lightbox" data-offset="5" href="img/portfolio-28.jpg" style="background-image: url(img/arthautekCouv.jpg);">
+                        <a class="mouseover poster-3d lightbox" data-offset="5" href="#" style="background-image: url(img/arthautekCouv.jpg);">
                             <span class="layer-1 full-size" data-offset="10">
                                 <span class="mouseover-helper-frame"></span>
                             </span>
@@ -80,7 +80,7 @@
 
                 <div class="sorting-item filter-2">
                     <div class="portfolio-landing-entry-1 style-1">
-                        <a class="mouseover poster-3d lightbox" data-offset="5" href="img/portfolio-29.jpg" style="background-image: url(img/eduknin.jpg);">
+                        <a class="mouseover poster-3d lightbox" data-offset="5" href="#" style="background-image: url(img/eduknin.jpg);">
                             <span class="layer-1 full-size" data-offset="10">
                                 <span class="mouseover-helper-frame"></span>
                             </span>
@@ -103,7 +103,7 @@
 
                 <div class="sorting-item filter-3 filter-4">
                     <div class="portfolio-landing-entry-1 style-1">
-                        <a class="mouseover poster-3d lightbox" data-offset="5" href="img/portfolio-30.jpg" style="background-image: url(img/projet4.jpg);">
+                        <a class="mouseover poster-3d lightbox" data-offset="5" href="#" style="background-image: url(img/projet4.jpg);">
                             <span class="layer-1 full-size" data-offset="10">
                                 <span class="mouseover-helper-frame"></span>
                             </span>
@@ -126,7 +126,7 @@
 
                 <div class="sorting-item filter-3 filter-4">
                     <div class="portfolio-landing-entry-1 style-1">
-                        <a class="mouseover poster-3d lightbox" data-offset="5" href="img/portfolio-31.jpg" style="background-image: url(img/projet3.jpg);">
+                        <a class="mouseover poster-3d lightbox" data-offset="5" href="#" style="background-image: url(img/projet3.jpg);">
                             <span class="layer-1 full-size" data-offset="10">
                                 <span class="mouseover-helper-frame"></span>
                             </span>
@@ -149,7 +149,7 @@
 
                 <div class="sorting-item filter-2">
                     <div class="portfolio-landing-entry-1 style-1">
-                        <a class="mouseover poster-3d lightbox" data-offset="5" href="img/portfolio-32.jpg" style="background-image: url(img/sushi.jpg);">
+                        <a class="mouseover poster-3d lightbox" data-offset="5" href="#" style="background-image: url(img/sushi.jpg);">
                             <span class="layer-1 full-size" data-offset="10">
                                 <span class="mouseover-helper-frame"></span>
                             </span>
@@ -172,7 +172,7 @@
 
                 <div class="sorting-item filter-2">
                     <div class="portfolio-landing-entry-1 style-1">
-                        <a class="mouseover poster-3d lightbox" data-offset="5" href="img/portfolio-33.jpg" style="background-image: url(img/hotelDelPlaya.png);">
+                        <a class="mouseover poster-3d lightbox" data-offset="5" href="#" style="background-image: url(img/hotelDelPlaya.png);">
                             <span class="layer-1 full-size" data-offset="10">
                                 <span class="mouseover-helper-frame"></span>
                             </span>
@@ -195,7 +195,7 @@
 
                 <div class="sorting-item filter-6">
                     <div class="portfolio-landing-entry-1 style-1">
-                        <a class="mouseover poster-3d lightbox" data-offset="5" href="img/portfolio-34.jpg" style="background-image: url(img/flyerSeptimanie.jpg);">
+                        <a class="mouseover poster-3d lightbox" data-offset="5" href="#" style="background-image: url(img/flyerSeptimanie.jpg);">
                             <span class="layer-1 full-size" data-offset="10">
                                 <span class="mouseover-helper-frame"></span>
                             </span>
@@ -218,7 +218,7 @@
 
                 <div class="sorting-item filter-5">
                     <div class="portfolio-landing-entry-1 style-1">
-                        <a class="mouseover poster-3d lightbox" data-offset="5" href="img/portfolio-35.jpg" style="background-image: url(img/logoTristan.jpg);">
+                        <a class="mouseover poster-3d lightbox" data-offset="5" href="#" style="background-image: url(img/logoTristan.jpg);">
                             <span class="layer-1 full-size" data-offset="10">
                                 <span class="mouseover-helper-frame"></span>
                             </span>
@@ -240,7 +240,7 @@
                 </div>
                 <div class="sorting-item filter-2">
                     <div class="portfolio-landing-entry-1 style-1">
-                        <a class="mouseover poster-3d lightbox" data-offset="5" href="img/portfolio-35.jpg" style="background-image: url(img/oceaned.jpg);">
+                        <a class="mouseover poster-3d lightbox" data-offset="5" href="#" style="background-image: url(img/oceaned.jpg);">
                             <span class="layer-1 full-size" data-offset="10">
                                 <span class="mouseover-helper-frame"></span>
                             </span>
@@ -262,7 +262,7 @@
                 </div>
                 <div class="sorting-item filter-5">
                     <div class="portfolio-landing-entry-1 style-1">
-                        <a class="mouseover poster-3d lightbox" data-offset="5" href="img/portfolio-35.jpg" style="background-image: url(img/logoTristan.jpg);">
+                        <a class="mouseover poster-3d lightbox" data-offset="5" href="#" style="background-image: url(img/carteVisite01.jpg);">
                             <span class="layer-1 full-size" data-offset="10">
                                 <span class="mouseover-helper-frame"></span>
                             </span>
@@ -273,32 +273,10 @@
                         <div class="text-content">
                             <div class="row">
                                 <div class="col-md-6 col-xs-text-center col-md-text-left">
-                                    <div class="h5"><b><a href="#" class="mouseover-simple size-1">11. Logo Tristan</a></b></div>
+                                    <div class="h5"><b><a href="#" class="mouseover-simple size-1">11. Carte visite Tristan</a></b></div>
                                 </div>
                                 <div class="col-md-6 col-xs-text-center col-md-text-right">
-                                    <div class="simple-article grey small">Logo</div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="sorting-item filter-5">
-                    <div class="portfolio-landing-entry-1 style-1">
-                        <a class="mouseover poster-3d lightbox" data-offset="5" href="img/portfolio-35.jpg" style="background-image: url(img/logoTristan.jpg);">
-                            <span class="layer-1 full-size" data-offset="10">
-                                <span class="mouseover-helper-frame"></span>
-                            </span>
-                            <span class="layer-1 full-size" data-offset="20">
-                                <span class="mouseover-helper-icon"></span>
-                            </span>
-                        </a>
-                        <div class="text-content">
-                            <div class="row">
-                                <div class="col-md-6 col-xs-text-center col-md-text-left">
-                                    <div class="h5"><b><a href="#" class="mouseover-simple size-1">12. Logo Tristan</a></b></div>
-                                </div>
-                                <div class="col-md-6 col-xs-text-center col-md-text-right">
-                                    <div class="simple-article grey small">Logo</div>
+                                    <div class="simple-article grey small">Carte de visite</div>
                                 </div>
                             </div>
                         </div>

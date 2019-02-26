@@ -650,6 +650,9 @@ footer.type-2{margin-top: -115px; top: 1px;}
 	footer.transparent .copyright a{color: #fff;}
 	footer.transparent .copyright .simple-article {color: #fff;}
 	.follow.style-3 .entry{color: rgba(255,255,255,.5); background: none; border-color: rgba(255,255,255,.5);}
+	.copyright .simple-article.light.transparent {
+	  color: rgba(255, 255, 255, 0.705);
+	}
 }
 /*Phones (<768px)*/
 @media (max-width: 767px) {
