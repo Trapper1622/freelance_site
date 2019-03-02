@@ -2,7 +2,7 @@
 
   $array = array("name" => "", "email" => "", "message" => "", "nameError" => "", "emailError" => "", "messageError" => "", "isSuccess" => false);
 
-  $emailTo = "titoutitiwow@gmail.com";
+  $emailTo = "contact@tristanb.fr";
 
   if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $array["name"] = verifyInput($_POST["name"]);

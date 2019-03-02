@@ -29,6 +29,17 @@
 
   <link rel="shortcut icon" href="img/favicon.ico" />
   <title>Tristan Broch</title>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-135509626-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-135509626-1');
+</script>
+
 </head>
 
 <body class="fonts-5">

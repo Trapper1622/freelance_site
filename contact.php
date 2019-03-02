@@ -62,6 +62,8 @@
     <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d11589.49146847291!2d3.7447271697753903!3d43.431928000000006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sfr!4v1538668175911"></iframe>
 </div>
 
+<!-- <div class="empty-space col-xs-b55 col-sm-b110"></div> -->
+
 <div class="container">
   <div class="row">
     <div class="col-xs-10 col-xs-offset-1">
@@ -69,7 +71,7 @@
 
       <div class="h4 text-center"><b>Vous avez une question ?</b></div>
 
-      <div class="empty-space col-xs-b30 col-sm-b60"></div>
+        <div class="empty-space col-xs-b30 col-sm-b60"></div>
 
       <!-- <form class="contact-form" id="contact-form" method="post" action="" role="form">
         <div class="row col-xs-b30">
@@ -156,7 +158,7 @@
 
 
 
-      <div class="empty-space col-xs-b55 col-sm-b110"></div>
+      <div class="empty-space col-xs-b55 col-sm-b110"></div> -->
     </div>
   </div>
 </div>
