@@ -34,7 +34,7 @@
 
                 <div class="sorting-item filter-2">
                     <div class="portfolio-landing-entry-1 style-1">
-                        <a class="mouseover poster-3d lightbox" data-offset="5" href="#" style="background-image: url(img/septimanie.jpg);">
+                        <a class="mouseover poster-3d lightbox" data-offset="5" href="http://septimanie-clubcanin.fr" style="background-image: url(img/septimanie.jpg);">
                             <span class="layer-1 full-size" data-offset="10">
                                 <span class="mouseover-helper-frame"></span>
                             </span>
@@ -80,7 +80,7 @@
 
                 <div class="sorting-item filter-2">
                     <div class="portfolio-landing-entry-1 style-1">
-                        <a class="mouseover poster-3d lightbox" data-offset="5" href="#" style="background-image: url(img/eduknin.jpg);">
+                        <a class="mouseover poster-3d lightbox" data-offset="5" href="https://edu-k-nin.fr" style="background-image: url(img/eduknin.jpg);">
                             <span class="layer-1 full-size" data-offset="10">
                                 <span class="mouseover-helper-frame"></span>
                             </span>
@@ -240,7 +240,7 @@
                 </div>
                 <div class="sorting-item filter-2">
                     <div class="portfolio-landing-entry-1 style-1">
-                        <a class="mouseover poster-3d lightbox" data-offset="5" href="#" style="background-image: url(img/oceaned.jpg);">
+                        <a class="mouseover poster-3d lightbox" data-offset="5" href="https://oceanedltr.com" style="background-image: url(img/oceaned.jpg);">
                             <span class="layer-1 full-size" data-offset="10">
                                 <span class="mouseover-helper-frame"></span>
                             </span>
@@ -252,6 +252,28 @@
                             <div class="row">
                                 <div class="col-md-6 col-xs-text-center col-md-text-left">
                                     <div class="h5"><b><a href="#" class="mouseover-simple size-1">10. Community manager</a></b></div>
+                                </div>
+                                <div class="col-md-6 col-xs-text-center col-md-text-right">
+                                    <div class="simple-article grey small">Site wordpress</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="sorting-item filter-2">
+                    <div class="portfolio-landing-entry-1 style-1">
+                        <a class="mouseover poster-3d lightbox" data-offset="5" href="https://www.tristanb.fr/wp-site" style="background-image: url(img/site-italien.jpg);">
+                            <span class="layer-1 full-size" data-offset="10">
+                                <span class="mouseover-helper-frame"></span>
+                            </span>
+                            <span class="layer-1 full-size" data-offset="20">
+                                <span class="mouseover-helper-icon"></span>
+                            </span>
+                        </a>
+                        <div class="text-content">
+                            <div class="row">
+                                <div class="col-md-6 col-xs-text-center col-md-text-left">
+                                    <div class="h5"><b><a href="#" class="mouseover-simple size-1">10. Restaurant italien</a></b></div>
                                 </div>
                                 <div class="col-md-6 col-xs-text-center col-md-text-right">
                                     <div class="simple-article grey small">Site wordpress</div>
